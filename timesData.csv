@@ -1,0 +1,801 @@
+,world_rank,university_name,country,teaching,international,research,citations,income,total_score,num_students,student_staff_ratio,international_students,female_male_ratio
+0,1,california institute of technology,usa,95.6,64.0,97.6,99.8,97.8,95.2,2243.0,6.9,27%,33 : 67
+1,2,university of oxford,united kingdom,86.5,94.4,98.9,98.8,73.1,94.2,19919.0,11.6,34%,46:54:00
+2,3,stanford university,usa,92.5,76.3,96.2,99.9,63.3,93.9,15596.0,7.8,22%,42:58:00
+3,4,university of cambridge,united kingdom,88.2,91.5,96.7,97.0,55,92.8,18812.0,11.8,34%,46:54:00
+4,5,massachusetts institute of technology,usa,89.4,84.0,88.6,99.7,95.4,92,11074.0,9.0,33%,37 : 63
+5,6,harvard university,usa,83.6,77.2,99.0,99.8,45.2,91.6,20152.0,8.9,25%,nan
+6,7,princeton university,usa,85.1,78.5,91.9,99.3,52.1,90.1,7929.0,8.4,27%,45:55:00
+7,8,imperial college london,united kingdom,83.3,96.0,88.5,96.7,53.7,89.1,15060.0,11.7,51%,37 : 63
+8,9,eth zurich – swiss federal institute of technology zurich,switzerland,77.0,97.9,95.0,91.1,80,88.3,18178.0,14.7,37%,31 : 69
+9,10,university of chicago,usa,85.7,65.0,88.9,99.2,36.6,87.9,14221.0,6.9,21%,42:58:00
+10,11,johns hopkins university,usa,77.6,70.0,90.4,98.2,100,87.6,15128.0,3.6,23%,50:50:00
+11,12,yale university,usa,86.5,64.3,87.8,97.2,43.3,87.4,11751.0,4.4,20%,50:50:00
+12,13,"university of california, berkeley",usa,80.4,61.9,91.1,99.7,47.9,87.2,36186.0,16.4,15%,50:50:00
+13,14,university college london,united kingdom,78.1,94.4,91.0,94.2,40.5,87.1,26607.0,10.7,46%,56:44:00
+14,15,columbia university,usa,85.9,73.5,82.2,98.1,-,86.1,25055.0,5.9,28%,nan
+15,16,"university of california, los angeles",usa,80.8,56.4,88.6,98.5,47.9,85.8,38206.0,10.3,15%,52:48:00
+16,17,university of pennsylvania,usa,82.0,49.5,86.9,98.6,47.9,85.2,20376.0,6.5,20%,51:49:00
+17,18,cornell university,usa,77.9,63.9,86.1,97.2,33.7,84,21424.0,10.2,19%,48:52:00
+18,19,university of toronto,canada,75.9,77.8,89.3,90.9,49.1,83.9,66198.0,19.5,15%,nan
+19,20,duke university,usa,76.0,56.5,78.0,99.0,100,82.7,15172.0,4.8,17%,49:51:00
+20,21,university of michigan,usa,76.8,53.7,85.2,94.4,56.3,82.4,41786.0,9.0,16%,48:52:00
+21,22,carnegie mellon university,usa,67.4,57.1,88.8,99.1,57.5,82.3,11885.0,13.1,35%,39 : 61
+22,23,london school of economics and political science,united kingdom,69.8,93.6,80.6,94.3,32.2,81.3,nan,nan,nan,nan
+23,24,university of edinburgh,united kingdom,68.6,89.8,77.2,96.3,36.1,80.3,25774.0,14.1,36%,58:42:00
+24,25,northwestern university,usa,69.8,53.9,78.4,96.5,81.2,79.5,18334.0,13.8,15%,48:52:00
+25,26,national university of singapore,singapore,71.7,96.2,84.5,79.4,49.8,79.2,31592.0,15.5,34%,49:51:00
+26,27,king’s college london,united kingdom,64.5,93.8,75.8,93.8,40.1,78.2,21394.0,11.4,37%,61:39:00
+27,28,karolinska institute,sweden,60.6,73.1,81.1,92.2,75.8,77.5,7774.0,11.5,22%,70:30:00
+28,29,lmu munich,germany,70.5,62.8,77.4,85.7,100,77.3,35691.0,15.5,13%,62:38:00
+29,30,new york university,usa,74.7,49.3,72.3,95.3,30.4,77.2,42056.0,6.8,19%,55:45:00
+30,31,école polytechnique fédérale de lausanne,switzerland,61.3,98.6,67.5,94.6,65.4,76.1,9666.0,10.5,54%,27 : 73
+31,32,university of washington,usa,67.1,51.2,70.0,98.6,43.1,75.6,44020.0,11.8,13%,53:47:00
+32,33,university of melbourne,australia,62.0,87.1,75.5,86.6,64.6,75.4,40128.0,23.7,35%,55:45:00
+33,34,university of british columbia,canada,60.2,90.5,73.2,91.5,42.6,75.3,50152.0,17.6,25%,54:46:00
+34,35,ku leuven,belgium,59.9,68.6,76.9,87.3,100,74.8,42503.0,41.9,18%,54:46:00
+35,36,university of illinois at urbana-champaign,usa,64.5,45.8,81.2,86.8,52.8,74.5,42727.0,18.7,20%,47:53:00
+36,37,heidelberg university,germany,68.8,62.8,69.6,88.2,68.2,74.4,28881.0,24.5,17%,55:45:00
+37,38,mcgill university,canada,66.1,85.5,72.1,78.9,40.3,72.6,31326.0,13.7,23%,56:44:00
+38,39,"university of california, san diego",usa,56.9,42.9,69.8,98.7,56.7,72.2,27233.0,6.5,11%,48:52:00
+39,39,"university of california, santa barbara",usa,52.6,61.5,66.0,99.2,90.4,72.2,22020.0,27.3,11%,52:48:00
+40,41,georgia institute of technology,usa,57.8,71.5,72.7,86.0,73.7,72.1,19967.0,20.1,26%,31 : 69
+41,42,peking university,china,77.8,49.2,72.4,69.1,100,72,40148.0,8.3,14%,nan
+42,43,university of tokyo,japan,81.4,30.3,83.0,60.9,50.8,71.1,26199.0,5.7,10%,nan
+43,44,"university of california, davis",usa,60.1,58.4,72.7,84.3,57.3,71,35364.0,13.9,13%,54:46:00
+44,44,university of hong kong,hong kong,64.6,99.5,72.8,70.1,53.7,71,19835.0,17.6,38%,53:47:00
+45,46,university of texas at austin,usa,59.3,31.7,69.7,92.2,63.1,70.3,49427.0,17.4,9%,51:49:00
+46,47,tsinghua university,china,73.3,39.5,83.0,58.8,100,70,39763.0,13.7,10%,32 : 68
+47,47,wageningen university and research center,netherlands,52.6,70.3,66.9,87.8,100,70,9248.0,17.0,21%,56:44:00
+48,49,humboldt university of berlin,germany,63.7,62.6,77.0,73.6,36.1,69.9,29987.0,52.5,16%,nan
+49,50,university of wisconsin-madison,usa,65.1,33.0,68.2,86.6,48.5,69.7,39655.0,10.8,11%,51:49:00
+50,51,brown university,usa,62.8,57.8,55.7,96.4,31.4,69.6,8653.0,10.1,19%,nan
+51,52,australian national university,australia,54.7,93.3,77.3,72.3,48,69.5,14604.0,19.2,35%,52:48:00
+52,53,technical university of munich,germany,61.0,63.8,66.0,80.1,99.2,69.4,35565.0,31.5,20%,33 : 67
+53,54,école normale supérieure,france,70.6,85.5,47.7,87.1,37.1,69,2400.0,7.9,20%,46:54:00
+54,55,nanyang technological university,singapore,48.4,94.6,61.3,85.6,99.9,68.2,25028.0,16.2,33%,48:52:00
+55,56,university of manchester,united kingdom,58.4,87.0,66.0,77.3,42,68.1,34938.0,15.3,34%,52:48:00
+56,56,university of sydney,australia,54.3,84.4,68.1,77.5,72.4,68.1,41868.0,20.2,28%,57:43:00
+57,58,university of amsterdam,netherlands,52.2,66.5,64.7,87.4,62.8,67.8,24570.0,14.4,11%,53:47:00
+58,59,hong kong university of science and technology,hong kong,49.4,80.5,66.1,82.6,68.1,67.2,11385.0,23.8,36%,nan
+59,60,the university of queensland,australia,49.2,89.3,62.8,82.4,76.7,67,34718.0,32.7,27%,53:47:00
+60,60,washington university in st louis,usa,54.3,44.9,55.6,99.2,33.5,67,12528.0,5.7,17%,nan
+61,62,utrecht university,netherlands,48.1,55.8,64.3,88.1,89.1,66.6,30779.0,15.4,7%,59:41:00
+62,63,university of north carolina at chapel hill,usa,58.0,39.0,54.5,95.9,39.4,66.4,26518.0,7.3,8%,58:42:00
+63,64,boston university,usa,57.8,51.0,49.5,97.7,30.3,66.1,24789.0,8.6,17%,58:42:00
+64,65,delft university of technology,netherlands,55.0,84.0,73.8,61.5,100,65.9,15920.0,19.4,25%,26 : 74
+65,65,university of minnesota,usa,53.5,35.3,61.0,88.0,98.5,65.9,46825.0,18.0,13%,52:48:00
+66,67,leiden university,netherlands,50.5,64.3,63.1,85.2,49.8,65.7,21222.0,17.1,10%,59:41:00
+67,68,university of southern california,usa,49.3,56.3,58.9,93.0,38,65.5,36534.0,12.9,20%,52:48:00
+68,69,university of bristol,united kingdom,47.6,82.4,51.6,91.2,40,64.3,17906.0,14.0,25%,53:47:00
+69,70,durham university,united kingdom,47.9,86.4,51.9,87.7,34.4,63.6,15489.0,15.7,24%,54:46:00
+70,71,erasmus university rotterdam,netherlands,37.2,76.1,55.2,95.6,54.6,63.5,20580.0,18.9,18%,48:52:00
+71,72,free university of berlin,germany,57.9,69.2,72.2,60.2,35.1,63.2,33062.0,39.3,20%,58:42:00
+72,73,monash university,australia,48.1,87.6,58.5,73.3,79.7,62.5,50882.0,40.5,36%,56:44:00
+73,74,university of groningen,netherlands,43.3,63.9,56.9,84.0,92.4,62.4,24556.0,25.6,12%,52:48:00
+74,75,pennsylvania state university,usa,50.4,40.8,61.9,80.5,56.2,62.3,44501.0,12.4,12%,46:54:00
+75,76,university of glasgow,united kingdom,41.6,85.8,48.3,92.3,31.6,61.9,22616.0,16.0,29%,57:43:00
+76,76,university of helsinki,finland,48.4,51.8,60.4,82.1,31.6,61.9,23505.0,15.1,6%,66:34:00
+77,78,university of tübingen,germany,47.0,58.2,59.8,79.3,59.2,61.7,28327.0,38.9,12%,58:42:00
+78,79,university of pittsburgh,usa,50.6,33.9,50.3,92.3,39.3,61.5,26485.0,5.8,10%,51:49:00
+79,80,university of warwick,united kingdom,47.4,90.3,53.1,78.2,37.7,61.3,18529.0,16.6,37%,48:52:00
+80,81,uppsala university,sweden,44.1,59.6,61.0,80.9,39.5,61.2,25266.0,18.2,12%,57:43:00
+81,82,university of copenhagen,denmark,49.8,83.3,42.7,86.2,45,61,27545.0,4.1,19%,67:33:00
+82,82,university of new south wales,australia,40.7,89.5,53.9,82.1,50,61,38309.0,25.9,33%,47:53:00
+83,84,university of freiburg,germany,47.4,60.3,51.1,80.5,100,60.7,26467.0,31.2,16%,52:48:00
+84,85,seoul national university,south korea,66.5,30.9,70.5,50.0,85.4,60.5,26389.0,13.9,10%,nan
+85,86,university of st andrews,united kingdom,49.7,92.3,47.3,78.8,30.6,60.4,8338.0,12.7,47%,56:44:00
+86,87,vanderbilt university,usa,47.8,29.1,44.2,95.7,63.2,60.1,12161.0,3.6,10%,52:48:00
+87,88,kyoto university,japan,70.6,26.1,69.3,46.6,79,59.9,22809.0,5.6,7%,nan
+88,88,maastricht university,netherlands,37.5,95.5,47.7,82.7,95.4,59.9,15626.0,18.9,48%,56:44:00
+89,90,emory university,usa,48.3,51.0,37.1,96.7,48.9,59.7,12338.0,4.5,18%,56:44:00
+90,90,lund university,sweden,39.7,74.1,53.6,81.3,70.4,59.7,28251.0,11.5,15%,nan
+91,90,ohio state university,usa,51.6,53.0,46.6,83.2,53.1,59.7,51462.0,13.4,12%,49:51:00
+92,93,university of exeter,united kingdom,39.4,87.3,40.0,94.3,31.9,59.5,17755.0,18.8,28%,54:46:00
+93,94,university of bonn,germany,45.1,63.6,47.5,85.3,-,58.8,32474.0,70.4,13%,55:45:00
+94,94,georgetown university,usa,54.4,52.7,39.3,82.5,80.7,58.8,15408.0,8.5,14%,53:47:00
+95,94,mcmaster university,canada,39.8,76.1,44.8,84.9,88,58.8,23823.0,19.3,15%,53:47:00
+96,97,university of sheffield,united kingdom,42.4,81.9,48.8,80.1,43.4,58.6,23311.0,15.5,31%,50:50:00
+97,98,queen mary university of london,united kingdom,34.1,93.5,41.3,93.3,36.8,58.5,14260.0,14.0,40%,52:48:00
+98,99,university of göttingen,germany,49.3,56.4,54.5,72.7,31.8,58,25581.0,25.6,12%,51:49:00
+99,99,michigan state university,usa,47.3,56.4,52.6,76.8,32.2,58,44750.0,15.7,15%,51:49:00
+100,101,university of basel,switzerland,39.5,94.7,33.1,88.3,99.9,57.9,12551.0,17.3,24%,54:46:00
+101,101,école polytechnique,france,53.5,92.8,44.6,64.7,82.3,57.9,2429.0,4.8,30%,0.806944444
+102,101,rice university,usa,37.9,66.6,35.1,99.7,41.7,57.9,6333.0,9.0,26%,44:56:00
+103,104,dartmouth college,usa,50.7,38.3,35.8,93.3,40.8,57.8,6178.0,6.6,16%,47:53:00
+104,104,university of zurich,switzerland,49.5,90.4,31.5,85.4,44,57.8,26583.0,6.5,19%,57:43:00
+105,106,aarhus university,denmark,36.9,76.8,50.7,79.8,68.3,57.7,23895.0,13.6,14%,54:46:00
+106,106,"university of california, irvine",usa,39.9,59.2,41.8,91.6,48.9,57.7,26614.0,16.1,16%,52:48:00
+107,106,university of mannheim,germany,34.5,64.6,47.7,86.9,85.3,57.7,11761.0,85.8,15%,55:45:00
+108,108,university of notre dame,usa,47.6,47.6,48.1,81.7,33.7,57.6,11829.0,13.8,10%,44:56:00
+109,109,university of western australia,australia,33.4,92.6,46.1,83.6,64.5,57.5,20851.0,20.7,27%,50:50:00
+110,110,rwth aachen university,germany,49.4,54.1,56.3,63.2,98.1,57.2,37917.0,27.6,16%,31 : 69
+111,110,university of southampton,united kingdom,39.8,88.4,43.6,82.0,37.5,57.2,20925.0,13.5,29%,53:47:00
+112,112,scuola normale superiore di pisa,italy,54.2,46.3,53.1,67.2,52,57.1,462.0,16.5,5%,28 : 72
+113,113,university of montreal,canada,46.3,84.2,45.5,69.6,92.6,57,38264.0,20.3,25%,57:43:00
+114,113,pierre and marie curie university,france,52.8,74.1,32.7,82.9,37.4,57,27862.0,8.7,18%,48:52:00
+115,113,purdue university,usa,50.2,66.4,57.7,63.2,-,57,39256.0,18.1,22%,42:58:00
+116,116,pohang university of science and technology,south korea,49.1,33.7,47.1,76.7,100,56.9,3055.0,10.1,4%,0.888888889
+117,117,"university of maryland, college park",usa,45.0,43.5,42.1,88.2,32.3,56.7,31331.0,8.4,9%,48:52:00
+118,118,ghent university,belgium,42.1,54.2,54.5,71.2,88.3,56.6,32166.0,34.1,9%,57:43:00
+119,119,university of birmingham,united kingdom,39.4,82.0,41.8,82.7,34.7,56.2,25295.0,16.4,23%,54:46:00
+120,120,university of bern,switzerland,40.0,83.7,42.5,76.6,82.9,56.1,14708.0,22.5,14%,54:46:00
+121,120,university of cape town,south africa,34.9,80.2,38.7,85.6,92.7,56.1,20040.0,12.1,18%,53:47:00
+122,120,university of florida,usa,51.8,33.3,56.8,67.7,-,56.1,50095.0,18.7,9%,54:46:00
+123,123,university of erlangen-nuremberg,germany,51.7,47.0,39.7,75.2,99.4,56,36146.0,53.9,9%,49:51:00
+124,123,"rutgers, the state university of new jersey",usa,43.9,34.7,55.7,75.4,35.9,56,37032.0,17.3,8%,51:49:00
+125,125,university of münster,germany,40.3,46.3,44.1,85.6,58.2,55.9,39838.0,46.1,8%,53:47:00
+126,125,radboud university nijmegen,netherlands,34.3,60.9,48.5,84.9,39.2,55.9,17713.0,13.0,10%,58:42:00
+127,127,university of colorado boulder,usa,39.7,36.6,37.6,96.4,35.7,55.8,29325.0,16.1,8%,45:55:00
+128,127,tufts university,usa,45.2,49.4,33.3,90.1,60.7,55.8,10410.0,10.0,14%,54:46:00
+129,129,"royal holloway, university of london",united kingdom,35.1,92.7,33.2,91.2,34.4,55.7,8747.0,15.9,37%,57:43:00
+130,130,lancaster university,united kingdom,34.0,87.0,41.4,85.3,33.6,55.6,11512.0,14.9,33%,52:48:00
+131,131,university of geneva,switzerland,34.9,98.5,40.5,78.5,72.4,55.4,15668.0,15.0,39%,61:39:00
+132,131,university of york,united kingdom,41.9,83.5,46.3,73.1,31.1,55.4,nan,nan,nan,nan
+133,133,case western reserve university,usa,46.1,40.5,33.2,92.0,34.1,55.3,9259.0,6.4,17%,48:52:00
+134,133,university of leeds,united kingdom,43.7,77.4,39.0,79.2,36.7,55.3,27703.0,14.7,21%,58:42:00
+135,135,university of oslo,norway,43.3,68.2,44.7,75.5,38.3,55.1,27139.0,18.8,18%,nan
+136,136,stockholm university,sweden,34.1,48.5,51.2,82.5,31.1,54.8,31715.0,23.7,8%,62:38:00
+137,137,university of alberta,canada,46.4,80.7,48.1,63.6,47.4,54.7,36299.0,21.6,23%,55:45:00
+138,138,chinese university of hong kong,hong kong,41.5,81.1,48.5,68.4,37.5,54.5,17916.0,10.2,22%,53:47:00
+139,138,karlsruhe institute of technology,germany,37.7,56.7,47.5,73.8,99.5,54.5,25294.0,24.6,16%,26 : 74
+140,140,university of sussex,united kingdom,33.4,88.3,37.2,86.1,30.6,54.4,12001.0,17.4,35%,54:46:00
+141,141,university of massachusetts,usa,40.2,48.9,36.3,88.1,52.2,54.3,56959.0,13.0,11%,49:51:00
+142,142,university of vienna,austria,40.8,92.6,50.5,63.6,30.2,54.2,34651.0,20.5,25%,67:33:00
+143,143,university of nottingham,united kingdom,40.3,80.6,39.0,77.5,39.8,54.1,30144.0,15.0,27%,54:46:00
+144,144,"university of california, santa cruz",usa,31.1,45.6,34.2,99.9,36.1,53.9,17404.0,22.7,1%,53:47:00
+145,144,university of lausanne,switzerland,30.9,89.2,45.6,76.2,56,53.9,11964.0,13.1,22%,nan
+146,146,autonomous university of barcelona,spain,40.3,50.3,40.0,83.8,34.9,53.8,30538.0,12.3,10%,59:41:00
+147,147,university of virginia,usa,38.8,43.4,37.5,87.3,37.9,53.3,23845.0,10.2,12%,52:48:00
+148,148,korea advanced institute of science and technology (kaist),south korea,43.3,33.9,40.5,75.9,100,53,9027.0,10.0,9%,0.888888889
+149,149,university of adelaide,australia,32.8,85.1,43.2,72.4,79.3,52.9,20771.0,30.1,26%,48:52:00
+150,149,university of east anglia,united kingdom,31.9,83.5,28.7,92.7,28.5,52.9,14992.0,14.7,28%,58:42:00
+151,149,university of twente,netherlands,34.1,80.1,45.6,68.8,91.2,52.9,6631.0,12.0,26%,37 : 63
+152,153,sungkyunkwan university (skku),south korea,51.4,36.7,53.5,53.8,97.5,52.8,24365.0,20.3,9%,39 : 61
+153,154,vu university amsterdam,netherlands,28.4,54.9,37.1,90.7,60.1,52.5,23280.0,16.3,6%,56:44:00
+154,155,kth royal institute of technology,sweden,39.0,84.4,44.3,63.9,78.1,52.4,12062.0,14.6,21%,30 : 70
+155,156,university of cologne,germany,42.2,53.1,38.0,75.0,68.5,52.3,43280.0,43.4,11%,60:40:00
+156,157,university of liverpool,united kingdom,32.8,85.4,30.9,85.9,36.6,52.2,18815.0,13.6,30%,52:48:00
+157,158,tu dresden,germany,41.4,47.7,45.8,66.1,99.7,52.1,35487.0,37.4,12%,42:58:00
+158,158,university of rochester,usa,39.7,55.8,27.9,89.0,37,52.1,9390.0,4.5,26%,49:51:00
+159,160,trinity college dublin,ireland,41.9,90.5,30.8,75.8,28,52,15521.0,18.0,25%,57:43:00
+160,161,lomonosov moscow state university,russia,75.4,57.8,66.7,8.6,95.7,51.9,30822.0,7.7,20%,43:57:00
+161,161,university of miami,usa,41.7,64.0,22.3,90.1,35.5,51.9,15286.0,5.7,14%,50:50:00
+162,163,university of arizona,usa,38.7,38.6,41.8,79.5,32.4,51.7,36429.0,12.7,8%,52:48:00
+163,164,pompeu fabra university,spain,32.9,63.3,28.0,90.7,37.2,51.2,10901.0,18.3,13%,59:41:00
+164,164,university of reading,united kingdom,39.3,85.1,37.3,69.9,34.2,51.2,12050.0,14.8,28%,55:45:00
+165,164,yeshiva university,usa,44.8,28.5,23.7,92.8,-,51.2,6753.0,5.5,7%,53:47:00
+166,167,"university of california, riverside",usa,27.5,59.5,33.3,91.2,42.5,51.1,20626.0,22.0,12%,51:49:00
+167,167,university of leicester,united kingdom,32.1,86.6,27.8,86.0,31.7,51.1,14541.0,13.4,35%,54:46:00
+168,167,national taiwan university,taiwan,54.1,27.7,58.0,47.3,49.6,51.1,31891.0,11.9,7%,39 : 61
+169,167,technical university of denmark,denmark,37.3,85.1,29.9,77.8,50,51.1,9990.0,5.0,18%,27 : 73
+170,167,université catholique de louvain,belgium,38.7,74.2,40.6,68.4,51,51.1,28856.0,42.0,19%,54:46:00
+171,172,university of aberdeen,united kingdom,29.7,91.4,31.4,82.6,43.1,51,12938.0,15.8,33%,54:46:00
+172,172,university of auckland,new zealand,31.4,90.5,39.5,69.8,78,51,29787.0,18.9,28%,54:46:00
+173,174,university of barcelona,spain,38.5,49.2,37.4,78.9,31.1,50.9,47491.0,12.2,10%,62:38:00
+174,175,university of konstanz,germany,38.5,58.3,46.7,61.9,92.4,50.8,10930.0,59.1,12%,54:46:00
+175,176,eindhoven university of technology,netherlands,34.3,71.3,41.0,70.7,57.3,50.6,8176.0,16.0,14%,0.847916667
+176,176,university college dublin,ireland,35.0,86.3,38.5,70.8,33.5,50.6,22193.0,24.5,23%,nan
+177,178,hebrew university of jerusalem,israel,45.8,55.6,41.4,64.6,31.9,50.5,17612.0,10.7,5%,55:45:00
+178,179,university of waterloo,canada,35.4,74.4,43.9,66.5,39.5,50.3,30726.0,24.2,14%,45:55:00
+179,180,university of gothenburg,sweden,28.5,58.3,39.8,81.8,30.3,50.2,26420.0,16.4,12%,nan
+180,180,scuola superiore sant’anna,italy,42.5,45.2,23.2,84.5,71.2,50.2,769.0,8.5,17%,35 : 65
+181,182,university of bergen,norway,32.5,70.0,31.5,82.4,36.2,50.1,11623.0,11.1,12%,60:40:00
+182,182,cardiff university,united kingdom,30.9,78.1,31.6,82.0,34.6,50.1,23347.0,13.1,23%,57:43:00
+183,182,university of utah,usa,35.6,30.1,35.3,83.7,57.4,50.1,25674.0,16.9,9%,45:55:00
+184,185,brandeis university,usa,28.3,47.0,25.7,97.3,38.6,49.9,5495.0,12.6,22%,55:45:00
+185,185,university of dundee,united kingdom,25.6,78.5,26.9,90.2,49.5,49.9,11628.0,15.3,25%,60:40:00
+186,185,university of würzburg,germany,34.6,50.9,35.8,79.1,47.9,49.9,26576.0,38.4,8%,57:43:00
+187,188,paris-sud university,france,38.7,64.2,29.0,79.8,28.8,49.8,27603.0,15.0,17%,nan
+188,189,arizona state university,usa,32.4,31.9,38.1,84.6,32,49.7,83236.0,29.9,9%,50:50:00
+189,190,university of antwerp,belgium,31.6,64.8,40.8,71.7,60.3,49.6,12346.0,30.3,16%,56:44:00
+190,190,boston college,usa,34.1,60.0,29.3,83.3,46.8,49.6,13216.0,17.4,19%,54:46:00
+191,192,ulm university,germany,35.2,58.2,23.9,86.4,58.4,49.5,9187.0,11.2,10%,47:53:00
+192,193,university of luxembourg,luxembourg,25.0,99.8,26.7,84.8,38.1,49.4,5144.0,15.9,52%,50:50:00
+193,193,texas a&m university,usa,49.4,47.8,52.4,47.1,46.4,49.4,50657.0,21.4,9%,47:53:00
+194,195,charité - universitätsmedizin berlin,germany,37.3,61.1,22.2,83.8,68.4,49.3,6853.0,6.6,16%,64:36:00
+195,196,newcastle university,united kingdom,30.9,84.3,27.5,81.5,34.7,49.2,20174.0,15.2,29%,50:50:00
+196,196,"st george’s, university of london",united kingdom,25.6,69.5,18.1,100.0,37.7,49.2,2958.0,13.4,17%,61:39:00
+197,198,university of trento,italy,30.8,55.9,27.4,87.7,47.1,49.1,16841.0,43.2,8%,51:49:00
+198,199,paris diderot university – paris 7,france,30.5,64.9,22.9,91.0,29,48.9,27756.0,14.8,17%,63:37:00
+199,200,queen’s university belfast,united kingdom,34.1,93.4,33.3,68.9,35.7,48.8,17940.0,17.9,30%,54:46:00
+200,201-250,aalborg university,denmark,25.1,71.0,28.4,73.8,43.7,-,17422.0,15.9,15%,48:52:00
+201,201-250,"birkbeck, university of london",united kingdom,33.5,89.9,35.1,66.3,28.5,-,9454.0,17.2,38%,55:45:00
+202,201-250,university of bologna,italy,39.3,39.9,29.5,73.0,34.5,-,85532.0,22.9,7%,56:44:00
+203,201-250,university at buffalo,usa,36.5,60.6,37.9,62.0,43.8,-,25668.0,19.0,19%,47:53:00
+204,201-250,university of calgary,canada,33.9,70.1,36.7,67.8,52,-,28341.0,16.5,17%,53:47:00
+205,201-250,chalmers university of technology,sweden,36.6,77.6,35.3,52.2,79.5,-,8605.0,11.6,15%,30 : 70
+206,201-250,city university of hong kong,hong kong,32.1,81.6,26.7,76.8,50.1,-,10015.0,7.1,28%,51:49:00
+207,201-250,copenhagen business school,denmark,19.3,88.5,26.5,79.4,35.3,-,18293.0,42.7,19%,48:52:00
+208,201-250,dalhousie university,canada,30.4,78.3,29.4,65.2,50.3,-,15064.0,14.4,18%,55:45:00
+209,201-250,university of duisburg-essen,germany,32.3,48.5,27.0,81.3,82.3,-,36051.0,46.6,11%,49:51:00
+210,201-250,école normale supérieure de lyon,france,41.6,65.6,30.0,69.0,31.7,-,2218.0,8.0,14%,49:51:00
+211,201-250,florida state university,usa,38.5,41.6,40.1,64.7,32,-,41226.0,31.8,7%,55:45:00
+212,201-250,university of fribourg,switzerland,32.3,87.4,32.9,64.1,60.8,-,10416.0,46.9,19%,58:42:00
+213,201-250,fudan university,china,44.7,38.6,30.4,61.1,28,-,32175.0,12.2,11%,50:50:00
+214,201-250,george washington university,usa,44.7,48.1,23.5,65.7,29.5,-,20541.0,12.0,16%,56:44:00
+215,201-250,goethe university frankfurt,germany,35.8,60.2,28.6,79.3,38.1,-,31861.0,9.3,15%,60:40:00
+216,201-250,university of hawai’i at mānoa,unisted states of america,32.0,63.4,35.5,67.7,44.7,-,nan,nan,nan,nan
+217,201-250,hong kong polytechnic university,hong kong,29.3,79.0,35.2,63.3,45.1,-,22064.0,25.9,26%,51:49:00
+218,201-250,university of illinois at chicago,usa,40.9,58.1,29.2,63.2,38,-,24313.0,9.2,17%,53:47:00
+219,201-250,indiana university,usa,43.0,41.2,27.3,74.8,-,-,62468.0,13.6,13%,53:47:00
+220,201-250,university of iowa,usa,41.0,32.3,26.7,73.5,54.1,-,27526.0,11.6,11%,52:48:00
+221,201-250,johannes gutenberg university of mainz,germany,34.9,53.3,21.7,72.6,70.7,-,35609.0,32.6,10%,58:42:00
+222,201-250,joseph fourier university,france,34.2,58.6,21.6,83.2,31.6,-,16130.0,12.1,13%,nan
+223,201-250,university of kiel,germany,32.3,49.4,20.5,89.5,-,-,24444.0,23.8,8%,53:47:00
+224,201-250,laval university,canada,37.5,63.8,31.7,62.2,57.5,-,27227.0,16.2,12%,nan
+225,201-250,medical university of vienna,austria,26.6,81.7,14.6,89.1,33.9,-,7426.0,2.9,28%,50:50:00
+226,201-250,northeastern university,usa,35.5,58.7,20.6,84.0,32.9,-,18539.0,15.1,26%,50:50:00
+227,201-250,oregon health and science university,usa,27.8,21.4,15.7,96.0,44.6,-,2838.0,1.1,3%,65:35:00
+228,201-250,university of otago,new zealand,30.7,89.9,30.5,74.9,31.5,-,18600.0,20.3,21%,57:43:00
+229,201-250,university of ottawa,canada,37.1,69.9,36.7,61.5,41.5,-,36733.0,26.3,15%,60:40:00
+230,201-250,paris descartes university,france,24.6,49.1,28.8,83.3,29,-,34691.0,26.9,15%,63:37:00
+231,201-250,peter the great st petersburg polytechnic university,russia,30.8,29.6,17.8,97.4,42.5,-,17155.0,7.2,8%,40 : 60
+232,201-250,polytechnic university of milan,italy,30.1,48.8,31.7,76.3,66.3,-,30025.0,22.2,12%,34 : 66
+233,201-250,royal veterinary college,united kingdom,26.0,81.7,27.8,74.9,45.5,-,1819.0,10.9,18%,77:23:00
+234,201-250,rush university,usa,37.7,21.8,17.4,88.9,45.4,-,1855.0,2.1,5%,71:29:00
+235,201-250,sapienza university of rome,italy,38.0,34.7,37.3,61.5,32.6,-,120986.0,32.3,7%,59:41:00
+236,201-250,university of science and technology of china,china,46.7,21.4,36.6,67.2,80.3,-,14290.0,7.9,2%,nan
+237,201-250,university of south florida,usa,24.8,45.1,35.7,73.4,99.8,-,31424.0,21.5,10%,nan
+238,201-250,stony brook university,usa,32.6,53.2,22.0,83.0,33.4,-,21908.0,10.9,24%,50:50:00
+239,201-250,university of stuttgart,germany,40.0,52.7,44.5,55.7,99.8,-,24099.0,45.4,20%,31 : 69
+240,201-250,swedish university of agricultural sciences,sweden,31.5,40.1,32.8,68.1,99.9,-,3879.0,4.6,nan,67:33:00
+241,201-250,technical university of darmstadt,germany,37.1,54.4,43.2,51.1,99.1,-,20300.0,53.6,18%,28 : 72
+242,201-250,university of technology sydney,australia,27.0,90.1,35.1,66.9,42.3,-,24519.0,44.1,31%,53:47:00
+243,201-250,tel aviv university,israel,41.0,47.5,50.5,49.2,42.9,-,23977.0,24.4,4%,nan
+244,201-250,university of texas at dallas,usa,24.3,52.3,26.7,86.8,41.8,-,16306.0,22.8,23%,44:56:00
+245,201-250,tilburg university,netherlands,34.1,71.6,47.1,51.5,57.4,-,7576.0,22.4,10%,49:51:00
+246,201-250,tohoku university,japan,45.3,29.3,42.7,49.4,74.7,-,17200.0,5.0,7%,25 : 75
+247,201-250,tokyo institute of technology,japan,45.6,31.9,47.6,42.2,70.9,-,9586.0,7.3,13%,0.602083333
+248,201-250,university of victoria,canada,20.6,70.2,30.0,79.0,36.6,-,17581.0,21.5,11%,56:44:00
+249,201-250,wake forest university,usa,34.6,24.2,19.5,94.8,42.5,-,7326.0,4.6,5%,51:49:00
+250,201-250,university of western ontario,canada,38.6,73.6,32.4,59.0,59.7,-,27387.0,20.7,16%,54:46:00
+251,201-250,william & mary,usa,38.5,26.6,17.5,85.0,29.1,-,7867.0,11.8,7%,54:46:00
+252,201-250,university of the witwatersrand,south africa,26.2,68.4,31.5,76.0,99.7,-,23321.0,18.6,9%,56:44:00
+253,251-300,aalto university,finland,31.1,65.4,32.8,62.1,61.6,-,16099.0,24.2,17%,32 : 68
+254,251-300,aix-marseille university,france,36.7,63.0,22.1,64.9,33.1,-,71749.0,45.5,13%,61:39:00
+255,251-300,university of bath,united kingdom,28.9,84.8,27.9,56.7,36.3,-,12830.0,18.8,30%,46:54:00
+256,251-300,bayreuth university,germany,32.2,52.6,31.2,60.1,56.4,-,12520.0,35.5,8%,46:54:00
+257,251-300,bielefeld university,germany,35.2,45.4,46.2,49.9,60.9,-,21428.0,67.8,8%,57:43:00
+258,251-300,university of bordeaux,france,25.3,54.6,22.0,71.7,30.6,-,51239.0,19.4,12%,58:42:00
+259,251-300,charles darwin university,australia,17.8,63.7,22.6,85.9,43.2,-,5570.0,25.4,15%,67:33:00
+260,251-300,colorado school of mines,usa,28.5,35.5,30.3,71.8,83.7,-,5287.0,18.2,12%,26 : 74
+261,251-300,colorado state university,usa,31.6,34.5,33.0,59.3,41,-,26769.0,19.0,5%,52:48:00
+262,251-300,university of delaware,usa,23.7,41.6,34.0,70.0,98.7,-,19262.0,15.9,10%,56:44:00
+263,251-300,flinders university,australia,21.4,64.7,25.7,69.5,41.7,-,15655.0,22.6,15%,63:37:00
+264,251-300,university of georgia,usa,41.1,39.2,30.5,52.2,30.9,-,33119.0,19.9,7%,57:43:00
+265,251-300,griffith university,australia,22.5,81.7,25.2,66.3,34.6,-,30251.0,22.0,21%,nan
+266,251-300,university of iceland,iceland,16.2,61.0,16.2,91.4,28,-,13960.0,25.9,8%,66:34:00
+267,251-300,indian institute of science,india,42.7,16.4,47.2,42.4,52.4,-,3318.0,8.2,1%,0.847916667
+268,251-300,iowa state university,usa,31.2,35.4,29.4,61.5,54,-,29991.0,17.4,11%,44:56:00
+269,251-300,james cook university,australia,19.0,70.4,22.8,81.4,40.7,-,11713.0,21.9,11%,63:37:00
+270,251-300,justus liebig university giessen,germany,32.9,46.8,33.9,52.9,46.4,-,25682.0,53.9,9%,62:38:00
+271,251-300,king abdulaziz university,saudi arabia,23.9,93.0,11.8,76.6,73.1,-,35889.0,8.4,21%,57:43:00
+272,251-300,koç university,turkey,21.2,53.5,27.1,74.9,82.4,-,4488.0,14.6,8%,52:48:00
+273,251-300,korea university,south korea,43.9,40.2,43.4,41.8,99.8,-,24043.0,15.8,14%,nan
+274,251-300,university of liège,belgium,29.1,69.7,36.6,46.5,98.9,-,20951.0,25.9,23%,54:46:00
+275,251-300,linköping university,sweden,24.2,57.7,18.9,76.8,42.1,-,17866.0,7.7,10%,52:48:00
+276,251-300,nanjing university,china,37.2,50.4,32.2,54.2,58.6,-,29743.0,13.3,10%,46:54:00
+277,251-300,national tsing hua university,taiwan,37.7,23.2,36.6,53.0,49.5,-,10221.0,13.5,5%,33 : 67
+278,251-300,"national university of ireland, galway",ireland,27.3,76.5,25.4,68.5,41.9,-,14067.0,26.8,14%,56:44:00
+279,251-300,university of newcastle,australia,27.4,75.9,26.5,67.2,64.4,-,23508.0,21.9,18%,56:44:00
+280,251-300,north carolina state university,usa,36.1,49.0,30.5,60.0,40.7,-,30533.0,13.6,11%,44:56:00
+281,251-300,oregon state university,usa,30.6,42.8,28.5,63.8,32.1,-,22578.0,16.8,9%,47:53:00
+282,251-300,osaka university,japan,46.8,26.6,45.2,37.4,76.1,-,23144.0,7.8,9%,31 : 69
+283,251-300,queen’s university,canada,35.8,61.6,35.8,54.4,54.2,-,20488.0,22.1,10%,58:42:00
+284,251-300,queensland university of technology,australia,28.8,76.0,35.6,56.0,73.7,-,33391.0,35.8,17%,54:46:00
+285,251-300,rensselaer polytechnic institute,usa,30.4,40.3,31.5,65.1,79.6,-,6671.0,15.0,16%,30 : 70
+286,251-300,royal college of surgeons in ireland,ireland,29.9,90.1,20.1,65.3,33.9,-,2473.0,15.6,63%,55:45:00
+287,251-300,ruhr university bochum,germany,32.8,51.7,30.0,54.4,66.6,-,38675.0,46.3,13%,48:52:00
+288,251-300,saint louis university,usa,36.9,26.6,10.9,85.0,29.9,-,11919.0,5.8,8%,58:42:00
+289,251-300,university of são paulo,brazil,59.1,25.3,57.1,20.4,30.5,-,81402.0,14.6,4%,48:52:00
+290,251-300,simon fraser university,canada,23.2,61.4,29.2,72.8,42.3,-,26640.0,28.3,19%,55:45:00
+291,251-300,university of surrey,united kingdom,31.7,90.4,28.9,51.2,34.9,-,12063.0,16.6,38%,55:45:00
+292,251-300,syracuse university,usa,31.4,38.3,20.8,77.1,36.3,-,19660.0,15.9,15%,55:45:00
+293,251-300,university of tasmania,australia,21.8,79.1,25.7,68.0,42.7,-,18340.0,23.8,21%,57:43:00
+294,251-300,"university of tennessee, knoxville",usa,29.5,39.3,23.2,81.4,41.3,-,24716.0,17.0,5%,nan
+295,251-300,tomsk polytechnic university,russia,31.6,32.7,15.1,82.4,60.2,-,11902.0,6.9,17%,39 : 61
+296,251-300,tulane university,usa,39.1,35.3,19.3,67.8,32.4,-,11381.0,8.4,8%,56:44:00
+297,251-300,umeå university,sweden,20.8,56.1,25.0,74.5,31.1,-,16667.0,11.9,7%,60:40:00
+298,251-300,vienna university of technology,austria,34.1,77.3,32.0,54.6,86.5,-,26419.0,52.0,27%,27 : 73
+299,251-300,virginia polytechnic institute and state university,usa,34.9,29.5,38.2,54.2,43.3,-,30850.0,18.6,10%,42:58:00
+300,251-300,university of wollongong,australia,25.8,86.8,28.4,59.3,57.9,-,16489.0,25.4,24%,50:50:00
+301,251-300,zhejiang university,china,44.3,19.6,46.0,36.1,96.2,-,47508.0,15.9,5%,41:59:00
+302,301-350,aberystwyth university,united kingdom,21.6,72.2,18.9,67.2,31.3,-,9252.0,19.2,18%,48:52:00
+303,301-350,university of alaska fairbanks,usa,25.1,53.5,23.1,63.0,51.2,-,3837.0,8.2,7%,53:47:00
+304,301-350,autonomous university of madrid,spain,35.6,48.6,30.9,46.9,33,-,28296.0,13.0,15%,56:44:00
+305,301-350,bangor university,united kingdom,22.6,81.3,22.1,65.4,31,-,9567.0,19.5,22%,55:45:00
+306,301-350,university of bremen,germany,30.9,50.0,32.7,50.0,46,-,18590.0,25.6,11%,50:50:00
+307,301-350,university of cincinnati,usa,31.3,28.3,20.4,72.1,35.3,-,36108.0,15.7,6%,54:46:00
+308,301-350,university of connecticut,usa,35.9,43.1,25.6,57.0,30.9,-,25742.0,13.0,11%,51:49:00
+309,301-350,deakin university,australia,22.4,76.9,21.9,66.8,30,-,32713.0,30.4,17%,60:40:00
+310,301-350,university of essex,united kingdom,33.9,93.7,33.3,38.6,28.9,-,12695.0,19.8,39%,55:45:00
+311,301-350,george mason university,usa,29.6,36.9,21.2,64.9,29.1,-,26622.0,17.0,7%,54:46:00
+312,301-350,university of greifswald,germany,30.1,41.7,23.5,61.3,32.6,-,10931.0,24.0,6%,55:45:00
+313,301-350,gwangju institute of science and technology,south korea,35.2,36.2,42.0,43.7,45.2,-,1394.0,9.6,8%,25 : 75
+314,301-350,university of hohenheim,germany,30.9,50.3,33.8,51.5,52.8,-,9163.0,41.2,13%,56:44:00
+315,301-350,university of innsbruck,austria,23.6,95.7,16.9,67.3,39.9,-,18209.0,16.9,39%,54:46:00
+316,301-350,kazan federal university,russia,21.9,25.5,12.3,87.5,42.4,-,23321.0,12.2,6%,69:31:00
+317,301-350,university of kent,united kingdom,24.6,87.2,19.1,60.9,28.8,-,17638.0,14.4,27%,53:47:00
+318,301-350,leibniz university of hanover,germany,36.5,43.2,36.9,39.0,69.6,-,22401.0,62.7,12%,41:59:00
+319,301-350,macquarie university,australia,28.5,90.0,27.2,52.3,33.1,-,27930.0,20.0,44%,55:45:00
+320,301-350,medical college of wisconsin,usa,25.4,30.4,12.1,85.2,31.8,-,1211.0,0.6,5%,48:52:00
+321,301-350,university of milan,italy,30.5,37.7,24.2,64.8,40.9,-,58618.0,24.3,5%,60:40:00
+322,301-350,university of milan-bicocca,italy,24.3,34.3,25.5,65.8,46.6,-,33370.0,72.5,5%,60:40:00
+323,301-350,montpellier university,france,38.7,54.4,16.7,59.5,31.9,-,36731.0,18.4,14%,51:49:00
+324,301-350,nagoya university,japan,40.8,27.4,38.9,40.1,91.4,-,15529.0,7.9,10%,29 : 71
+325,301-350,university of naples federico ii,italy,24.7,21.1,14.8,81.3,47.4,-,83653.0,64.2,1%,nan
+326,301-350,national chiao tung university,taiwan,32.9,32.0,45.4,34.2,96.9,-,12646.0,16.6,5%,27 : 73
+327,301-350,national research nuclear university mephi,russia,43.9,27.5,24.1,52.8,28.1,-,7801.0,7.3,7%,29 : 71
+328,301-350,national taiwan university of science and technology (taiwan tech),taiwan,31.7,30.5,43.1,39.1,92.2,-,7446.0,17.4,11%,34 : 66
+329,301-350,university of navarra,spain,31.9,52.6,20.8,57.5,63.5,-,11259.0,10.6,16%,52:48:00
+330,301-350,university of nebraska-lincoln,usa,30.1,45.8,30.2,53.5,35.6,-,21789.0,16.4,9%,46:54:00
+331,301-350,örebro university,sweden,18.3,39.4,10.4,87.8,29.8,-,8788.0,15.8,2%,61:39:00
+332,301-350,university of oregon,usa,21.2,33.5,22.7,72.6,30.8,-,24418.0,20.2,11%,52:48:00
+333,301-350,university of padua,italy,25.7,37.9,22.6,74.6,32.6,-,62577.0,18.3,4%,56:44:00
+334,301-350,university of pavia,italy,25.0,40.5,22.5,65.1,69.4,-,22958.0,40.6,6%,56:44:00
+335,301-350,plymouth university,united kingdom,19.3,64.0,18.0,75.2,28.5,-,24121.0,25.9,13%,52:48:00
+336,301-350,shanghai jiao tong university,china,37.8,27.5,45.2,34.0,92.9,-,38191.0,12.8,6%,37 : 63
+337,301-350,university of southern denmark,denmark,19.2,71.8,14.7,79.7,28,-,22210.0,12.7,16%,52:48:00
+338,301-350,stellenbosch university,south africa,28.2,49.8,35.0,46.9,100,-,21849.0,23.0,8%,53:47:00
+339,301-350,university of strasbourg,france,25.5,71.6,23.4,64.4,32.8,-,46208.0,17.8,21%,58:42:00
+340,301-350,technical university of dortmund,germany,34.2,40.8,29.8,55.3,48.6,-,29143.0,88.9,10%,47:53:00
+341,301-350,technion israel institute of technology,israel,30.8,61.9,33.3,52.1,28.8,-,13855.0,19.4,4%,35 : 65
+342,301-350,toulouse 1 capitole university,france,18.6,66.7,35.7,56.3,32.5,-,19011.0,43.8,19%,59:41:00
+343,301-350,university of trieste,italy,26.5,47.3,18.5,74.1,32.3,-,18135.0,25.8,9%,56:44:00
+344,301-350,university of turin,italy,27.4,38.8,22.3,67.5,54.2,-,67552.0,66.0,6%,62:38:00
+345,301-350,university of turku,finland,27.1,66.2,21.2,65.8,31.2,-,12326.0,14.6,5%,61:39:00
+346,301-350,vrije universiteit brussel,belgium,28.7,64.5,24.5,56.8,77.1,-,9020.0,17.1,16%,55:45:00
+347,301-350,všb - technical university of ostrava,czech republic,18.8,22.3,15.7,85.5,32.1,-,14991.0,23.9,5%,49:51:00
+348,301-350,yonsei university,south korea,37.2,41.5,34.1,39.4,75.9,-,24774.0,11.6,14%,nan
+349,301-350,york university,canada,30.2,58.2,30.8,49.1,33.2,-,48007.0,39.4,9%,59:41:00
+350,351-400,bilkent university,turkey,22.6,47.5,17.5,64.1,30.2,-,nan,nan,nan,nan
+351,351-400,"binghamton university, state university of new york",usa,22.7,53.6,17.4,62.0,34,-,15799.0,23.3,14%,48:52:00
+352,351-400,university of crete,greece,18.6,47.0,19.2,73.6,34.5,-,14650.0,26.9,5%,63:37:00
+353,351-400,university of cyprus,cyprus,18.0,74.7,28.5,56.7,30,-,6880.0,22.9,8%,69:31:00
+354,351-400,drexel university,usa,31.2,46.3,14.6,57.7,36.3,-,20713.0,10.8,18%,48:52:00
+355,351-400,university of eastern finland,finland,24.8,46.1,20.7,65.1,33.3,-,10798.0,17.3,6%,64:36:00
+356,351-400,university of florence,italy,21.7,38.5,20.4,72.1,35.9,-,54290.0,17.2,7%,59:41:00
+357,351-400,university of st gallen,switzerland,25.8,97.6,11.2,53.5,41.8,-,6848.0,10.8,34%,32 : 68
+358,351-400,graz university of technology,austria,26.0,69.3,15.8,52.9,77.2,-,7542.0,12.5,16%,0.970833333
+359,351-400,university of guelph,canada,28.0,53.6,34.2,44.4,47.4,-,21643.0,28.3,4%,60:40:00
+360,351-400,hanyang university,south korea,33.9,54.3,32.6,31.1,87.9,-,16729.0,10.4,19%,nan
+361,351-400,hong kong baptist university,hong kong,22.6,75.0,12.1,67.9,28.8,-,10441.0,11.0,25%,61:39:00
+362,351-400,university of houston,usa,34.9,33.9,26.5,52.0,42.3,-,40325.0,43.7,9%,50:50:00
+363,351-400,indian institute of technology bombay,india,37.8,17.7,28.6,48.5,42.3,-,8327.0,14.9,1%,0.725
+364,351-400,instituto superior técnico lisboa,portugal,22.2,43.7,25.0,59.8,38.8,-,11778.0,16.9,9%,27 : 73
+365,351-400,university of jyväskylä,finland,28.2,47.1,25.5,55.5,34.2,-,9703.0,15.2,5%,62:38:00
+366,351-400,la trobe university,australia,27.0,78.0,28.5,45.4,43.7,-,22037.0,29.0,27%,63:37:00
+367,351-400,loughborough university,united kingdom,31.2,72.9,32.2,41.3,36.6,-,13951.0,15.9,22%,38 : 62
+368,351-400,university of manitoba,canada,27.1,57.8,26.9,49.7,41.8,-,28576.0,27.8,11%,55:45:00
+369,351-400,university of missouri,usa,31.2,31.0,21.0,60.2,31.1,-,29885.0,14.1,5%,53:47:00
+370,351-400,university of modena and reggio emilia,italy,18.7,34.2,15.6,72.9,32.3,-,19693.0,25.3,6%,54:46:00
+371,351-400,university of montana,usa,30.8,21.5,13.6,65.5,31,-,12470.0,15.2,3%,54:46:00
+372,351-400,"national university of ireland, maynooth",ireland,24.6,75.6,22.8,50.2,36.6,-,7653.0,28.0,11%,55:45:00
+373,351-400,university of nebraska medical center,usa,37.0,37.7,13.3,64.4,33.6,-,2857.0,2.6,8%,67:33:00
+374,351-400,university of new mexico,usa,25.6,28.6,15.4,74.5,37,-,nan,nan,nan,nan
+375,351-400,norwegian university of science and technology,norway,16.3,59.9,25.8,59.8,51.8,-,17381.0,13.9,9%,46:54:00
+376,351-400,university of oulu,finland,23.1,56.9,15.9,62.3,30.9,-,14056.0,8.5,6%,49:51:00
+377,351-400,panthéon-sorbonne university – paris 1,france,53.2,47.6,47.6,6.8,28.3,-,42215.0,34.3,20%,59:41:00
+378,351-400,polytechnic university of turin,italy,23.7,50.6,18.6,65.9,42.5,-,27709.0,19.6,16%,29 : 71
+379,351-400,university of rome iii,italy,23.1,35.9,21.0,64.8,37.5,-,36353.0,61.2,5%,59:41:00
+380,351-400,sabancı university,turkey,22.3,42.7,32.3,52.8,70,-,2739.0,15.9,6%,39 : 61
+381,351-400,san diego state university,usa,20.3,25.9,27.0,62.7,29.3,-,27420.0,31.7,5%,57:43:00
+382,351-400,university of south australia,australia,26.4,89.0,26.7,41.2,85.9,-,18971.0,26.2,32%,59:41:00
+383,351-400,university of south carolina,usa,31.1,24.5,21.5,58.7,30.3,-,29336.0,16.3,1%,55:45:00
+384,351-400,university of south dakota,usa,29.3,17.1,12.1,70.4,28,-,8003.0,17.1,2%,61:39:00
+385,351-400,state university of campinas,brazil,44.6,21.1,42.3,22.6,49.4,-,27095.0,15.3,3%,48:52:00
+386,351-400,university of stirling,united kingdom,22.6,77.7,23.5,59.1,30.4,-,7828.0,15.9,22%,61:39:00
+387,351-400,sun yat-sen university,china,31.9,37.0,24.6,45.7,79.4,-,51351.0,16.6,8%,51:49:00
+388,351-400,swansea university,united kingdom,22.2,72.4,23.8,58.2,32.7,-,12801.0,17.1,20%,49:51:00
+389,351-400,swinburne university of technology,australia,21.5,84.8,20.2,53.4,32.2,-,20314.0,36.5,33%,44:56:00
+390,351-400,university of tartu,estonia,23.8,46.1,22.8,64.2,31.5,-,10269.0,13.0,3%,66:34:00
+391,351-400,temple university,usa,34.0,28.6,18.2,58.3,41.6,-,33268.0,13.3,5%,51:49:00
+392,351-400,university of texas at san antonio,usa,18.1,29.6,16.6,74.9,28.6,-,27520.0,26.9,6%,48:52:00
+393,351-400,uit the arctic university of norway,norway,26.5,66.1,18.7,58.8,36.8,-,10398.0,12.2,10%,60:40:00
+394,351-400,université libre de bruxelles,belgium,26.1,84.5,28.3,47.9,39.1,-,23819.0,26.1,32%,54:46:00
+395,351-400,lille 2 university – health and law,france,15.1,39.4,9.5,81.7,31.5,-,26894.0,38.5,8%,58:42:00
+396,351-400,university college cork,ireland,28.6,75.5,23.8,48.4,47.1,-,15805.0,22.3,15%,55:45:00
+397,351-400,verona university,italy,23.6,38.3,13.1,76.1,36.6,-,25250.0,19.7,7%,65:35:00
+398,351-400,victoria university of wellington,new zealand,26.0,88.8,28.7,44.3,45.6,-,17142.0,21.1,21%,55:45:00
+399,351-400,washington state university,usa,29.0,39.6,28.2,49.6,57.1,-,24550.0,18.3,7%,50:50:00
+400,351-400,wayne state university,usa,31.9,29.6,14.2,65.3,41.7,-,23065.0,10.7,7%,57:43:00
+401,401-500,american university,usa,42.2,28.9,16.5,41.1,35.9,-,11604.0,12.0,12%,60:40:00
+402,401-500,aston university,unted kingdom,18.4,92.5,20.4,51.9,34.6,-,nan,nan,nan,nan
+403,401-500,university of aveiro,portugal,24.8,45.9,26.5,43.6,40.1,-,10791.0,17.8,10%,51:49:00
+404,401-500,university of bari aldo moro,italy,28.7,31.7,21.6,48.8,45.4,-,51560.0,65.1,2%,65:35:00
+405,401-500,bar-ilan university,israel,22.6,49.4,21.3,42.3,28.9,-,17503.0,16.0,5%,59:41:00
+406,401-500,bournemouth university,united kingdom,32.0,70.6,12.6,35.2,28.8,-,14907.0,25.9,18%,53:47:00
+407,401-500,university of brescia,italy,15.6,36.6,14.8,72.3,35.8,-,14076.0,25.0,7%,48:52:00
+408,401-500,brno university of technology,czech republic,18.0,35.8,14.7,55.8,33.7,-,23694.0,21.3,15%,27 : 73
+409,401-500,brunel university london,united kingdom,24.8,91.8,23.3,39.5,34.7,-,12613.0,17.6,38%,46:54:00
+410,401-500,ca’ foscari university of venice,italy,23.9,38.1,27.8,48.9,32.3,-,19267.0,38.3,7%,66:34:00
+411,401-500,university of cagliari,italy,19.4,32.6,13.2,56.8,33.6,-,30638.0,51.0,1%,62:38:00
+412,401-500,university of canterbury,new zealand,23.5,91.0,22.5,38.9,52.1,-,12187.0,16.5,20%,51:49:00
+413,401-500,catholic university of the sacred heart,italy,18.6,39.0,11.3,55.4,38.7,-,30304.0,18.9,10%,nan
+414,401-500,charles university in prague,czech republic,31.5,52.8,21.5,41.0,28.2,-,51438.0,13.0,15%,62:38:00
+415,401-500,"china medical university, taiwan",taiwan,24.0,25.7,29.4,45.0,60.4,-,7983.0,15.4,8%,53:47:00
+416,401-500,city university london,united kingdom,23.5,89.6,21.2,43.5,28.9,-,13053.0,17.8,50%,55:45:00
+417,401-500,claude bernard university lyon 1,france,21.3,50.5,13.2,66.5,34.5,-,35308.0,16.1,11%,50:50:00
+418,401-500,university of coimbra,portugal,28.3,46.2,26.5,42.4,34.8,-,22795.0,19.0,11%,55:45:00
+419,401-500,complutense university of madrid,spain,33.2,39.1,27.6,31.2,30.9,-,86519.0,17.5,13%,62:38:00
+420,401-500,concordia university,canada,19.3,77.4,23.4,36.4,30.9,-,31017.0,30.3,27%,50:50:00
+421,401-500,curtin university,australia,20.1,93.1,20.2,44.6,37.8,-,30333.0,17.1,38%,53:47:00
+422,401-500,dublin city university,ireland,26.1,76.7,25.2,36.3,51.7,-,8546.0,22.9,17%,51:49:00
+423,401-500,east china university of science and technology,china,24.1,21.7,17.1,46.4,64.7,-,27140.0,15.5,5%,nan
+424,401-500,ewha womans university,south korea,23.9,34.3,18.3,50.4,57.6,-,17625.0,14.4,6%,100:00:00
+425,401-500,federico santa maría technical university,chile,17.2,54.1,10.1,70.5,35.1,-,11718.0,34.0,2%,24 : 76
+426,401-500,university of ferrara,italy,17.7,41.8,17.2,63.3,35.9,-,18882.0,30.2,7%,56:44:00
+427,401-500,florida international university,usa,25.7,32.8,18.1,49.4,32.7,-,32566.0,25.9,7%,56:44:00
+428,401-500,university of genoa,italy,27.2,38.8,14.2,59.3,42.3,-,37373.0,29.5,9%,56:44:00
+429,401-500,georgia state university,usa,26.3,29.5,19.5,52.9,28.7,-,28534.0,20.4,5%,59:41:00
+430,401-500,university of graz,austria,24.9,68.9,16.3,53.3,29.3,-,20584.0,26.8,12%,65:35:00
+431,401-500,heriot-watt university,united kingdom,23.4,90.1,22.4,36.4,45.6,-,8773.0,17.8,43%,41:59:00
+432,401-500,hokkaido university,japan,40.3,27.9,32.8,29.3,53.7,-,18162.0,8.2,9%,29 : 71
+433,401-500,howard university,usa,38.8,30.3,11.0,44.5,-,-,10297.0,6.8,5%,65:35:00
+434,401-500,university of hull,united kingdom,22.4,73.2,16.1,41.1,31.8,-,15141.0,18.7,20%,52:48:00
+435,401-500,university of idaho,usa,28.3,32.0,19.4,40.8,32.4,-,11641.0,21.5,6%,47:53:00
+436,401-500,indian institute of technology delhi,india,35.8,15.5,25.8,33.4,62.8,-,8371.0,17.3,1%,0.806944444
+437,401-500,indian institute of technology kharagpur,india,33.2,13.3,30.5,41.4,31.7,-,9928.0,17.5,0%,0.684027778
+438,401-500,indian institute of technology madras,india,34.6,16.1,20.7,31.4,88.9,-,8234.0,15.9,1%,0.847916667
+439,401-500,university of ioannina,greece,14.5,36.9,17.7,56.4,32.9,-,20825.0,36.3,4%,58:42:00
+440,401-500,iran university of science and technology,iran,25.9,12.2,26.0,42.3,61.2,-,10311.0,23.9,0%,24 : 76
+441,401-500,johannes kepler university of linz,austria,19.2,58.5,13.8,51.6,37.4,-,19646.0,29.1,10%,48:52:00
+442,401-500,university of kaiserslautern,germany,29.6,44.1,22.6,47.5,80.2,-,14184.0,54.4,14%,36 : 64
+443,401-500,keele university,united kingdom,20.0,72.7,17.6,53.0,29.3,-,8397.0,15.7,20%,55:45:00
+444,401-500,university of kwazulu-natal,south africa,20.3,58.6,25.7,41.5,38.2,-,30572.0,24.9,6%,58:42:00
+445,401-500,kyung hee university,south korea,26.1,46.4,27.6,39.2,89.4,-,24356.0,17.4,14%,nan
+446,401-500,kyushu university,japan,36.5,26.4,27.5,31.8,83.2,-,18925.0,6.7,8%,28 : 72
+447,401-500,lehigh university,usa,23.9,36.0,15.0,58.2,38.9,-,6300.0,11.3,15%,44:56:00
+448,401-500,louisiana state university,usa,26.8,26.1,27.7,37.8,-,-,28116.0,20.1,6%,52:48:00
+449,401-500,university of macau,macau,18.5,98.4,17.0,49.7,34.9,-,8521.0,14.9,31%,58:42:00
+450,401-500,makerere university,uganda,15.1,58.0,10.6,70.7,28,-,37340.0,29.4,9%,50:50:00
+451,401-500,marche polytechnic university,italy,15.2,27.3,11.0,80.2,28,-,16589.0,23.0,4%,45:55:00
+452,401-500,"university of maryland, baltimore county",usa,21.3,28.2,18.2,61.3,31.7,-,13908.0,18.1,7%,46:54:00
+453,401-500,murdoch university,australia,18.7,88.3,19.6,51.2,36.5,-,16606.0,32.8,43%,59:41:00
+454,401-500,university of nantes,france,19.6,35.1,12.2,69.4,-,-,33866.0,22.2,11%,56:44:00
+455,401-500,national and kapodistrian university of athens,greece,26.7,39.0,16.3,45.8,-,-,63052.0,32.3,9%,61:39:00
+456,401-500,national autonomous university of mexico,mexico,42.7,35.9,40.2,14.8,63.7,-,137378.0,11.6,5%,51:49:00
+457,401-500,national cheng kung university,taiwan,29.8,27.7,40.2,27.2,100,-,21234.0,14.4,11%,36 : 64
+458,401-500,national institute of applied sciences of lyon (insa lyon),france,27.0,63.6,10.6,41.8,40.3,-,6137.0,8.2,31%,31 : 69
+459,401-500,national yang-ming university,taiwan,41.5,15.8,18.5,33.3,30.2,-,4496.0,5.4,2%,48:52:00
+460,401-500,university of neuchâtel,switzerland,24.2,91.4,14.7,48.2,-,-,4358.0,8.5,22%,59:41:00
+461,401-500,new university of lisbon,portugal,26.9,44.5,21.9,38.3,41.3,-,18867.0,17.9,7%,49:51:00
+462,401-500,university of nice sophia antipolis,france,21.4,79.5,16.1,53.7,28.5,-,27304.0,20.3,22%,56:44:00
+463,401-500,novosibirsk state university,russia,41.4,32.4,30.8,26.2,38.2,-,7131.0,7.1,13%,52:48:00
+464,401-500,the open university,united kingdom,21.0,51.5,13.8,60.3,28.4,-,76683.0,35.9,9%,61:39:00
+465,401-500,oxford brookes university,united kingdom,25.7,68.9,18.8,42.7,28.4,-,14238.0,18.5,25%,57:43:00
+466,401-500,university of palermo,italy,15.3,23.6,9.1,77.4,28,-,43875.0,22.4,1%,60:40:00
+467,401-500,university of parma,italy,17.7,36.8,16.6,56.4,37.1,-,26937.0,29.1,7%,56:44:00
+468,401-500,university of pisa,italy,21.6,31.1,18.9,64.5,31.4,-,47247.0,18.0,4%,52:48:00
+469,401-500,polytechnic university of catalonia,spain,25.2,63.9,14.8,44.7,40.9,-,22893.0,11.7,28%,0.561111111
+470,401-500,pontifical catholic university of chile,chile,28.2,52.4,21.3,37.0,28,-,25075.0,15.3,7%,nan
+471,401-500,university of porto,portugal,32.0,45.4,28.2,37.2,38.7,-,32720.0,18.8,9%,54:46:00
+472,401-500,university of portsmouth,united kingdom,17.2,79.3,10.9,58.2,28.9,-,20161.0,19.1,23%,45:55:00
+473,401-500,rmit university,australia,24.7,82.1,17.7,44.6,37,-,29501.0,18.1,25%,47:53:00
+474,401-500,university of rome ii – tor vergata,italy,23.5,36.5,17.2,64.5,34.7,-,33504.0,26.5,6%,52:48:00
+475,401-500,university of rovira i virgili,spain,20.8,41.5,14.8,66.9,30.9,-,12533.0,12.8,9%,61:39:00
+476,401-500,saint petersburg state university,russia,47.9,33.0,31.4,14.5,29.5,-,20836.0,5.2,7%,60:40:00
+477,401-500,university of salento,italy,29.6,24.5,13.2,53.0,36.2,-,19959.0,58.4,1%,64:36:00
+478,401-500,university of san francisco,usa,34.2,40.1,12.9,43.8,28.6,-,10788.0,17.0,17%,63:37:00
+479,401-500,university of saskatchewan,canada,30.8,52.9,22.4,39.7,62.9,-,19028.0,16.3,14%,57:43:00
+480,401-500,sharif university of technology,iran,26.6,15.9,30.1,33.7,87.8,-,10977.0,18.7,0%,27 : 73
+481,401-500,university of siena,italy,23.7,39.0,17.8,45.2,33.2,-,18846.0,23.6,5%,59:41:00
+482,401-500,southern cross university,australia,18.9,52.7,18.3,53.3,37.7,-,9026.0,32.8,15%,66:34:00
+483,401-500,state university of new york albany,usa,25.6,31.4,35.3,35.5,28,-,15387.0,18.5,8%,51:49:00
+484,401-500,university of strathclyde,united kingdom,25.9,71.0,28.0,31.8,44.1,-,15705.0,20.2,20%,50:50:00
+485,401-500,university of tampere,finland,23.5,41.9,13.7,63.7,40,-,10045.0,9.5,4%,66:34:00
+486,401-500,tampere university of technology,finland,23.1,54.0,17.2,45.5,67.5,-,6147.0,15.5,13%,1.011805556
+487,401-500,tokyo medical and dental university (tmdu),japan,39.3,23.1,18.3,36.6,59.5,-,2872.0,3.3,7%,51:49:00
+488,401-500,tokyo metropolitan university,japan,21.6,19.9,11.4,72.2,30.9,-,9303.0,9.9,4%,35 : 65
+489,401-500,university of tsukuba,japan,40.0,34.4,30.0,33.7,42.9,-,15930.0,12.6,16%,38 : 62
+490,401-500,university of ulsan,south korea,19.5,18.6,20.5,54.0,64.7,-,14037.0,13.3,3%,nan
+491,401-500,ulster university,united kingdom,19.1,79.0,13.2,44.1,29.2,-,19622.0,15.8,15%,55:45:00
+492,401-500,université du québec à montréal,canada,26.8,42.9,24.5,41.6,29.2,-,27046.0,24.7,9%,61:39:00
+493,401-500,universiti teknologi malaysia,malaysia,26.3,51.7,14.6,44.7,31.1,-,16270.0,9.0,13%,43:57:00
+494,401-500,university of urbino carlo bo,italy,17.2,35.0,8.7,66.8,31.2,-,13435.0,37.4,7%,61:39:00
+495,401-500,university of valencia,spain,22.7,40.5,16.9,49.6,31.3,-,58413.0,15.4,9%,60:40:00
+496,401-500,university of waikato,new zealand,19.3,87.0,18.2,53.7,30.7,-,10159.0,17.0,25%,57:43:00
+497,401-500,western sydney university,australia,20.1,54.0,24.6,52.3,30.7,-,30704.0,32.2,9%,56:44:00
+498,401-500,wuhan university,china,38.2,36.7,26.8,18.0,97.8,-,46227.0,14.4,7%,nan
+499,401-500,xiamen university,china,26.7,25.0,15.6,47.0,-,-,32921.0,12.3,5%,52:48:00
+500,501-600,american university of beirut,lebanon,27.7,93.0,11.2,31.9,-,-,7695.0,8.9,25%,51:49:00
+501,501-600,amirkabir university of technology,iran,24.5,7.7,25.7,34.8,55.7,-,14080.0,25.6,1%,34 : 66
+502,501-600,"university of the andes, colombia",colombia,21.2,51.7,13.8,31.2,28,-,15773.0,16.9,2%,44:56:00
+503,501-600,university of arkansas,usa,25.5,25.9,17.4,30.3,36.9,-,22819.0,21.2,5%,50:50:00
+504,501-600,auburn university,usa,30.2,27.9,19.4,21.0,37.2,-,22386.0,17.6,4%,51:49:00
+505,501-600,babeş-bolyai university,romania,27.9,35.4,12.5,32.1,28.6,-,37915.0,23.5,2%,67:33:00
+506,501-600,university of the basque country,spain,18.2,34.9,11.9,43.1,30.3,-,46373.0,15.3,5%,53:47:00
+507,501-600,bauman moscow state technical university,russia,44.0,15.6,23.7,3.1,68.1,-,18808.0,4.0,4%,1.011805556
+508,501-600,ben-gurion university of the negev,israel,25.1,52.9,21.3,30.1,28.7,-,16695.0,12.6,2%,49:51:00
+509,501-600,blaise pascal university,france,20.2,66.6,2.9,46.9,-,-,15619.0,7.1,17%,55:45:00
+510,501-600,boğaziçi university,turkey,21.2,38.3,17.2,45.4,35.5,-,11506.0,25.0,7%,50:50:00
+511,501-600,university of burgundy,france,21.4,50.9,8.8,46.3,-,-,26612.0,20.8,11%,54:46:00
+512,501-600,university of canberra,australia,18.4,54.6,19.3,29.8,36.2,-,11221.0,28.6,24%,54:46:00
+513,501-600,carleton university,canada,19.9,61.3,24.0,32.0,30.4,-,25036.0,29.8,18%,47:53:00
+514,501-600,university of catania,italy,19.2,25.3,15.9,52.9,29.5,-,55859.0,49.7,1%,61:39:00
+515,501-600,central queensland university,australia,20.9,50.8,11.4,43.7,32.5,-,11452.0,29.6,27%,59:41:00
+516,501-600,university of chile,chile,28.3,44.1,19.6,30.5,-,-,29207.0,14.2,3%,47:53:00
+517,501-600,china agricultural university,china,35.8,17.6,24.9,22.6,52.3,-,19342.0,12.0,1%,57:43:00
+518,501-600,chung-ang university,south korea,29.9,43.7,27.6,17.4,61.3,-,13015.0,17.4,17%,45:55:00
+519,501-600,czech technical university in prague,czech republic,20.6,25.0,9.3,46.5,28.2,-,22751.0,12.0,nan,-
+520,501-600,de montfort university,united kingdom,16.8,58.4,10.1,40.1,28.5,-,16812.0,19.1,21%,57:43:00
+521,501-600,east china normal university,china,24.6,30.6,14.7,43.3,42,-,29623.0,14.0,11%,63:37:00
+522,501-600,edith cowan university,australia,18.9,68.7,16.1,35.0,34.5,-,27491.0,16.1,16%,61:39:00
+523,501-600,federal university of rio de janeiro,brazil,32.4,25.1,19.7,18.3,42.9,-,52878.0,12.8,2%,54:46:00
+524,501-600,university of granada,spain,24.3,36.4,14.7,45.8,29.4,-,53476.0,16.0,6%,56:44:00
+525,501-600,university of haifa,israel,25.5,34.7,29.5,26.2,30.3,-,17758.0,30.8,1%,65:35:00
+526,501-600,harbin institute of technology,china,29.4,25.6,27.3,15.7,99.8,-,31658.0,10.8,7%,29 : 71
+527,501-600,university of hertfordshire,united kingdom,15.5,78.9,9.5,50.5,29.3,-,19665.0,19.4,27%,54:46:00
+528,501-600,hiroshima university,japan,27.8,22.2,18.9,41.7,42.2,-,14686.0,8.2,5%,36 : 64
+529,501-600,huazhong university of science and technology,china,29.3,17.3,22.7,31.6,71.8,-,57242.0,17.7,4%,34 : 66
+530,501-600,indian institute of technology guwahati,india,24.3,12.9,20.7,42.6,32.3,-,4710.0,14.2,1%,0.643055556
+531,501-600,indian institute of technology kanpur,india,33.1,16.4,15.0,31.5,28,-,6167.0,12.2,0%,0.602083333
+532,501-600,indian institute of technology roorkee,india,29.7,13.9,17.5,37.2,81.4,-,8061.0,18.7,1%,0.765972222
+533,501-600,isfahan university of technology,iran,18.1,17.2,23.0,39.5,99.5,-,10964.0,26.5,1%,39 : 61
+534,501-600,istanbul technical university,turkey,19.2,22.9,25.8,26.5,72.1,-,34550.0,16.0,5%,34 : 66
+535,501-600,jadavpur university,india,32.8,7.7,22.2,31.8,33.8,-,10697.0,16.1,0%,30 : 70
+536,501-600,kanazawa university,japan,24.7,18.4,14.8,35.5,30.4,-,10546.0,10.4,5%,36 : 64
+537,501-600,kansas state university,usa,22.9,41.7,17.5,39.3,43.1,-,21379.0,15.1,10%,50:50:00
+538,501-600,keio university,japan,25.0,22.7,17.5,28.5,41.4,-,33751.0,11.9,5%,32 : 68
+539,501-600,kent state university,usa,18.4,32.4,14.2,53.8,28.5,-,23122.0,19.0,8%,58:42:00
+540,501-600,king fahd university of petroleum and minerals,saudi arabia,25.4,84.5,16.1,24.4,81.2,-,6898.0,7.1,20%,-
+541,501-600,king saud university,saudi arabia,20.0,75.5,17.5,22.3,57.4,-,40666.0,13.4,7%,nan
+542,501-600,university of la laguna,spain,16.9,44.7,10.0,44.8,28.5,-,22422.0,14.9,5%,58:42:00
+543,501-600,lappeenranta university of technology,finland,27.1,53.0,27.5,20.8,80.3,-,3486.0,23.9,19%,31 : 69
+544,501-600,university of limerick,ireland,19.8,76.5,16.3,36.6,34,-,12212.0,19.8,13%,46:54:00
+545,501-600,university of lisbon,portugal,25.9,46.6,18.3,32.4,35.4,-,47849.0,17.5,9%,51:49:00
+546,501-600,liverpool john moores university,united kingdom,16.4,62.1,11.6,45.9,28.8,-,18513.0,19.8,13%,52:48:00
+547,501-600,mahidol university,thailand,26.8,44.1,15.1,28.3,71.6,-,27402.0,7.5,3%,63:37:00
+548,501-600,manchester metropolitan university,united kingdom,22.7,57.8,10.6,30.8,28.3,-,28037.0,18.2,14%,57:43:00
+549,501-600,university of maribor,slovenia,17.1,33.6,11.5,42.1,38.7,-,14531.0,17.3,4%,nan
+550,501-600,masaryk university,czech republic,21.2,48.9,22.9,27.8,28.5,-,40898.0,26.6,17%,62:38:00
+551,501-600,massey university,new zealand,23.1,80.5,17.1,31.9,35.8,-,19101.0,16.8,15%,62:38:00
+552,501-600,memorial university of newfoundland,canada,18.1,53.3,15.8,35.6,48.3,-,15464.0,14.6,10%,59:41:00
+553,501-600,middle east technical university,turkey,29.9,26.7,17.3,28.8,60,-,25779.0,22.2,7%,44:56:00
+554,501-600,university of minho,portugal,23.9,43.6,20.1,35.3,51.6,-,19090.0,18.8,9%,52:48:00
+555,501-600,missouri university of science and technology,usa,23.5,40.6,18.4,28.7,52.8,-,7647.0,15.5,12%,1.011805556
+556,501-600,montana state university,usa,17.7,23.5,21.8,48.0,43,-,12331.0,17.8,4%,46:54:00
+557,501-600,monterrey institute of technology and higher education,mexico,23.9,59.6,12.7,23.4,75.8,-,14353.0,20.5,12%,40 : 60
+558,501-600,national central university,taiwan,26.3,27.1,23.2,17.5,75.3,-,10915.0,9.8,6%,31 : 69
+559,501-600,national sun yat-sen university,taiwan,26.1,19.7,33.0,25.8,44.3,-,9336.0,19.6,4%,37 : 63
+560,501-600,national taiwan normal university,taiwan,26.2,38.1,31.3,16.2,81.9,-,11072.0,13.0,19%,57:43:00
+561,501-600,national technical university of athens,greece,20.2,31.3,15.0,36.2,40.3,-,14780.0,26.9,7%,36 : 64
+562,501-600,new jersey institute of technology,usa,18.9,48.5,16.6,32.2,32.2,-,10646.0,26.2,17%,25 : 75
+563,501-600,new mexico state university,usa,19.5,30.5,19.2,47.2,34.6,-,15035.0,18.8,7%,54:46:00
+564,501-600,university of north carolina at greensboro,usa,18.2,17.4,15.3,43.1,28.9,-,16446.0,19.2,2%,66:34:00
+565,501-600,oklahoma state university,usa,27.5,25.6,22.7,33.1,33.7,-,21270.0,21.4,7%,49:51:00
+566,501-600,osaka city university,japan,26.3,21.3,13.4,34.4,40.7,-,8604.0,10.1,4%,36 : 64
+567,501-600,otto von guericke university of magdeburg,germany,22.9,43.9,14.4,39.7,37.7,-,14104.0,13.1,13%,42:58:00
+568,501-600,university of oviedo,spain,19.5,36.2,10.8,41.9,34.1,-,24210.0,13.7,5%,54:46:00
+569,501-600,palacký university in olomouc,czech republic,19.2,48.8,11.8,42.9,28.7,-,18540.0,11.4,9%,70:30:00
+570,501-600,panjab university,india,24.6,14.1,8.8,41.0,28.1,-,16691.0,23.9,1%,46:54:00
+571,501-600,paris dauphine university,france,21.9,69.3,11.1,27.6,30.6,-,9565.0,15.4,28%,53:47:00
+572,501-600,pontifical catholic university of rio de janeiro (puc-rio),brazil,24.5,31.3,24.1,23.1,100,-,14300.0,21.2,3%,49:51:00
+573,501-600,portland state university,usa,16.8,31.6,14.4,43.3,44.6,-,20398.0,22.2,8%,54:46:00
+574,501-600,university of pretoria,south africa,25.6,46.0,21.2,17.5,52.4,-,37314.0,20.0,8%,57:43:00
+575,501-600,pusan national university,south korea,27.5,32.9,24.7,20.4,66.8,-,24929.0,19.7,12%,51:49:00
+576,501-600,quaid-i-azam university,pakistan,17.9,35.4,9.9,45.6,-,-,12688.0,25.7,0%,53:47:00
+577,501-600,university of regina,canada,15.6,47.7,15.8,34.2,34.4,-,11550.0,22.8,12%,61:39:00
+578,501-600,renmin university of china,china,34.7,40.1,13.7,30.7,42.5,-,24954.0,12.7,6%,nan
+579,501-600,university of rennes 1,france,17.8,53.0,10.3,44.7,31.7,-,22186.0,13.9,12%,50:50:00
+580,501-600,university of salamanca,spain,26.1,40.8,16.9,25.9,31.6,-,31035.0,17.9,12%,58:42:00
+581,501-600,university of santiago de compostela,spain,22.9,37.1,14.1,46.9,32.3,-,29085.0,15.3,6%,63:37:00
+582,501-600,semmelweis university,hungary,19.6,81.7,10.6,41.5,30.7,-,12920.0,10.9,25%,64:36:00
+583,501-600,university of seville,spain,21.5,32.0,14.9,32.6,36.7,-,64931.0,17.5,7%,55:45:00
+584,501-600,université de sherbrooke,canada,25.6,39.8,9.5,41.3,29.6,-,13438.0,5.4,5%,54:46:00
+585,501-600,soochow university,china,19.2,16.0,13.7,45.8,75.3,-,36465.0,12.9,2%,78:22:00
+586,501-600,south china university of technology,china,19.5,17.5,22.1,28.1,86.8,-,41438.0,17.7,3%,33 : 67
+587,501-600,tallinn university of technology,estonia,16.3,37.9,15.0,38.7,44.8,-,14061.0,28.6,5%,44:56:00
+588,501-600,tehran university of medical sciences,iran,51.8,14.1,20.0,9.3,30,-,13912.0,9.0,1%,62:38:00
+589,501-600,university of texas at arlington,usa,20.1,50.3,10.1,50.9,33.4,-,29396.0,10.5,10%,60:40:00
+590,501-600,tianjin university,china,36.5,14.7,34.4,12.2,100,-,29693.0,12.2,1%,nan
+591,501-600,tokyo university of agriculture and technology,japan,34.9,19.4,24.1,16.9,39.9,-,5865.0,14.4,5%,27 : 73
+592,501-600,university of toledo,usa,31.6,37.7,13.4,29.9,32.9,-,19465.0,17.5,9%,50:50:00
+593,501-600,tongji university,china,28.9,37.2,29.2,13.1,63.5,-,37394.0,13.5,10%,38 : 62
+594,501-600,university of tulsa,usa,29.7,43.8,12.9,24.6,71.7,-,4597.0,12.5,25%,43:57:00
+595,501-600,united arab emirates university,united arab emirates,18.8,95.0,14.8,21.7,30.1,-,9221.0,12.5,26%,76:24:00
+596,501-600,university of warsaw,poland,26.1,41.6,15.8,42.2,28.5,-,49292.0,14.1,7%,67:33:00
+597,501-600,university of wisconsin-milwaukee,usa,17.3,26.0,13.8,45.5,29,-,22542.0,18.4,5%,52:48:00
+598,501-600,xi’an jiaotong university,china,28.7,25.8,22.5,25.5,70.4,-,29863.0,12.3,4%,34 : 66
+599,501-600,university of zaragoza,spain,20.1,33.5,12.7,49.5,36.7,-,31046.0,11.8,5%,55:45:00
+600,601-800,university of a coruña,spain,18.3,23.4,10.0,16.6,38.2,-,17062.0,13.0,2%,52:48:00
+601,601-800,adam mickiewicz university,poland,20.0,25.7,11.0,15.3,28.7,-,40633.0,15.6,1%,71:29:00
+602,601-800,agh university of science and technology,poland,14.2,17.9,3.7,35.7,-,-,35569.0,17.0,1%,-
+603,601-800,ajou university,south korea,19.5,20.0,11.9,23.9,45.7,-,12706.0,11.3,2%,33 : 67
+604,601-800,university of alcalá,spain,17.6,50.0,11.2,28.3,43.3,-,30812.0,25.1,18%,53:47:00
+605,601-800,alexandria university,egypt,20.3,33.7,8.2,14.1,29.7,-,127431.0,23.3,1%,46:54:00
+606,601-800,alexandru ioan cuza university,romania,24.9,46.9,13.6,7.0,28.2,-,25724.0,33.0,5%,63:37:00
+607,601-800,aligarh muslim university,india,28.3,18.7,10.0,20.9,29.6,-,11197.0,10.5,2%,0.765972222
+608,601-800,american university of sharjah,united arab emirates,12.4,95.6,10.6,13.3,33.3,-,5226.0,14.1,82%,48:52:00
+609,601-800,amrita university,india,20.4,29.6,5.8,20.7,28,-,17273.0,6.6,8%,nan
+610,601-800,anadolu university,turkey,12.2,14.3,22.6,10.9,100,-,379231.0,162.6,1%,78:22:00
+611,601-800,andhra university,india,34.8,7.2,6.9,1.2,31.3,-,10407.0,20.2,3%,36 : 64
+612,601-800,university of antioquia,colombia,18.1,42.0,21.1,14.8,43.6,-,38872.0,23.0,1%,50:50:00
+613,601-800,aristotle university of thessaloniki,greece,22.6,36.6,15.0,29.5,33.6,-,46288.0,22.2,9%,52:48:00
+614,601-800,"asia university, taiwan",taiwan,14.4,18.3,15.9,30.5,38.4,-,12119.0,26.3,3%,53:47:00
+615,601-800,athens university of economics and business,greece,13.4,39.2,18.8,31.2,66.5,-,13167.0,57.5,6%,47:53:00
+616,601-800,auckland university of technology,new zealand,17.3,95.6,9.8,21.7,28.5,-,18981.0,18.1,38%,58:42:00
+617,601-800,austral university of chile,chile,16.7,45.2,9.7,14.2,41.1,-,13794.0,17.8,1%,47:53:00
+618,601-800,beijing institute of technology,china,25.9,16.9,21.7,9.1,87.6,-,nan,nan,nan,nan
+619,601-800,belarusian state university,belarus,20.2,48.2,8.7,6.0,28,-,29303.0,10.6,6%,69:31:00
+620,601-800,university of belgrade,serbia,20.4,30.5,13.2,14.0,45.6,-,96968.0,28.3,5%,60:40:00
+621,601-800,"birla institute of technology and science, pilani",india,18.3,13.7,8.3,17.4,29.6,-,11837.0,19.5,0%,0.970833333
+622,601-800,university of bradford,united kingdom,18.7,79.1,15.9,22.7,32.7,-,11065.0,20.5,32%,53:47:00
+623,601-800,university of brasília,brazil,21.9,24.1,7.4,10.4,-,-,45880.0,14.5,2%,52:48:00
+624,601-800,university of brighton,united kingdom,16.7,62.8,10.7,20.1,29.4,-,16924.0,19.5,19%,58:42:00
+625,601-800,university of bucharest,romania,34.3,21.3,11.5,9.9,29.5,-,31806.0,24.9,2%,70:30:00
+626,601-800,budapest university of technology and economics,hungary,17.1,30.4,13.7,21.6,39.7,-,22447.0,22.1,4%,32 : 68
+627,601-800,cairo university,egypt,18.9,31.0,11.1,11.9,30.3,-,231941.0,39.1,3%,47:53:00
+628,601-800,university of calcutta,india,34.7,13.1,8.7,19.8,29.2,-,18511.0,32.5,0%,nan
+629,601-800,"california state university, long beach",usa,11.6,18.9,10.4,23.3,-,-,29594.0,32.3,5%,58:42:00
+630,601-800,capital medical university,china,26.3,18.8,14.9,16.3,28.8,-,11506.0,7.1,3%,70:30:00
+631,601-800,university of castilla-la mancha,spain,18.4,28.6,10.3,30.5,29.7,-,26381.0,14.3,3%,56:44:00
+632,601-800,university of central lancashire,united kingdom,15.7,54.1,9.4,28.2,28.9,-,18542.0,17.5,17%,57:43:00
+633,601-800,university of cergy-pontoise,france,18.7,49.1,6.3,13.2,28.6,-,17000.0,9.2,11%,53:47:00
+634,601-800,chang gung university,taiwan,19.3,15.7,24.7,27.6,31.9,-,7506.0,12.6,0%,42:58:00
+635,601-800,carlos iii university of madrid,spain,23.2,44.7,17.4,24.8,34.8,-,15730.0,11.4,9%,43:57:00
+636,601-800,"university of chemistry and technology, prague",czech republic,21.6,46.3,12.0,17.4,38.9,-,4699.0,11.0,19%,nan
+637,601-800,chiang mai university,thailand,17.8,34.9,9.4,30.0,32.3,-,35617.0,16.5,1%,0.847916667
+638,601-800,chiba university,japan,26.9,21.0,16.8,24.8,55.3,-,14554.0,12.3,5%,37 : 63
+639,601-800,china university of geosciences (wuhan),china,21.1,16.1,21.4,21.5,64.5,-,29483.0,20.7,3%,nan
+640,601-800,china university of petroleum (beijing),china,23.6,15.9,26.6,4.0,100,-,14579.0,19.4,6%,nan
+641,601-800,chonbuk national university,south korea,19.7,27.2,14.7,24.5,33.3,-,23270.0,15.0,3%,45:55:00
+642,601-800,chongqing university,china,19.5,15.5,15.5,8.7,73.8,-,43955.0,16.0,3%,nan
+643,601-800,chonnam national university,south korea,17.5,20.4,11.7,29.1,31.4,-,35779.0,18.5,3%,41:59:00
+644,601-800,chulalongkorn university,thailand,23.8,32.8,14.1,16.7,37.8,-,38719.0,14.5,2%,59:41:00
+645,601-800,chung yuan christian university,taiwan,15.9,18.7,22.1,17.4,41.9,-,15020.0,30.2,3%,41:59:00
+646,601-800,chungnam national university,south korea,23.2,19.8,17.7,13.2,39.9,-,18361.0,17.2,3%,nan
+647,601-800,clemson university,usa,21.4,34.6,19.7,27.0,35.8,-,19198.0,17.1,8%,46:54:00
+648,601-800,comenius university in bratislava,slovakia,23.0,46.9,10.3,19.6,28,-,20879.0,9.7,10%,54:46:00
+649,601-800,coventry university,united kingdom,17.1,69.6,7.7,18.4,29.1,-,21934.0,14.8,35%,47:53:00
+650,601-800,dalian university of technology,china,22.6,20.7,19.0,23.5,93.3,-,34326.0,15.2,2%,33 : 67
+651,601-800,university of debrecen,hungary,17.3,49.0,11.4,20.9,-,-,29714.0,20.3,13%,57:43:00
+652,601-800,university of delhi,india,29.8,15.4,10.8,19.1,28.2,-,32567.0,22.9,1%,50:50:00
+653,601-800,university of dhaka,bangladesh,21.7,37.2,7.2,9.6,-,-,62716.0,6.9,5%,34 : 66
+654,601-800,dublin institute of technology,ireland,16.1,70.5,8.8,20.7,28.1,-,13839.0,18.9,25%,41:59:00
+655,601-800,ehime university,japan,19.2,20.9,11.3,17.5,37.8,-,8394.0,9.9,1%,39 : 61
+656,601-800,university of electronic science and technology of china,china,20.5,13.4,12.9,8.8,28,-,21689.0,9.8,0%,0.929861111
+657,601-800,eötvös loránd university,hungary,21.3,43.0,12.1,30.6,29.3,-,28698.0,22.4,4%,nan
+658,601-800,erciyes university,turkey,15.5,17.2,10.9,18.0,30.3,-,28079.0,28.0,2%,46:54:00
+659,601-800,federal university of bahia,brazil,18.2,19.7,8.1,14.3,-,-,39861.0,17.9,1%,47:53:00
+660,601-800,federal university of minas gerais,brazil,27.9,21.6,15.4,23.1,30.7,-,42612.0,13.5,1%,55:45:00
+661,601-800,federal university of paraná (ufpr),brazil,24.6,15.5,9.6,7.0,-,-,21850.0,11.2,1%,nan
+662,601-800,federal university of rio grande do sul,brazil,32.6,18.9,13.7,16.8,-,-,38743.0,14.8,1%,50:50:00
+663,601-800,federal university of santa catarina,brazil,26.0,21.0,12.2,14.2,42.9,-,26078.0,12.6,1%,48:52:00
+664,601-800,federal university of são carlos,brazil,29.0,16.8,10.8,11.5,-,-,18587.0,16.9,0%,nan
+665,601-800,federal university of viçosa,brazil,39.7,15.0,14.5,3.9,59,-,13163.0,11.4,3%,70:30:00
+666,601-800,federal university of lavras,brazil,25.8,14.5,16.4,3.0,-,-,10350.0,20.9,2%,53:47:00
+667,601-800,feng chia university,taiwan,14.6,21.1,13.7,34.4,33.9,-,20213.0,23.9,7%,36 : 64
+668,601-800,florida institute of technology,usa,20.4,62.4,13.5,24.6,33.4,-,4408.0,13.7,26%,34 : 66
+669,601-800,fu jen catholic university,taiwan,14.4,19.1,9.8,18.2,47,-,25951.0,22.8,4%,59:41:00
+670,601-800,gdańsk university of technology,poland,15.5,16.1,9.5,15.2,36.8,-,25217.0,23.3,1%,39 : 61
+671,601-800,university of ghana,ghana,15.6,48.4,15.6,19.5,-,-,37274.0,37.5,2%,41:59:00
+672,601-800,gifu university,japan,25.4,18.5,16.9,14.7,32.8,-,7318.0,12.4,4%,35 : 65
+673,601-800,glasgow caledonian university,united kingdom,17.1,55.0,10.4,24.2,29.9,-,13527.0,21.6,16%,60:40:00
+674,601-800,university of greenwich,united kingdom,15.7,81.8,9.5,17.7,30,-,18096.0,24.6,32%,53:47:00
+675,601-800,hacettepe university,turkey,21.0,19.6,11.8,19.7,28.2,-,39606.0,20.4,4%,56:44:00
+676,601-800,university of huddersfield,united kingdom,17.4,55.2,5.4,16.5,28,-,15436.0,18.1,25%,54:46:00
+677,601-800,hunan university,china,18.3,14.8,15.0,21.2,46.7,-,42756.0,24.7,2%,43:57:00
+678,601-800,university of ibadan,nigeria,22.7,26.1,11.1,4.6,29.2,-,26247.0,17.1,1%,45:55:00
+679,601-800,university of indonesia,indonesia,18.1,37.2,8.0,13.9,40,-,43565.0,15.8,0%,51:49:00
+680,601-800,inha university,south korea,20.7,23.5,20.0,22.5,64.7,-,20353.0,24.1,3%,36 : 64
+681,601-800,i-shou university,taiwan,12.8,24.8,11.5,13.3,41,-,16263.0,29.9,10%,45:55:00
+682,601-800,istanbul university,turkey,26.0,20.0,23.3,10.0,100,-,82096.0,41.1,6%,44:56:00
+683,601-800,jagiellonian university,poland,24.0,33.5,14.4,30.7,28,-,42835.0,11.5,5%,67:33:00
+684,601-800,jilin university,china,28.2,20.3,14.4,14.6,42.1,-,65605.0,13.6,3%,46:54:00
+685,601-800,university of jordan,jordan,19.0,53.7,7.7,7.8,28.8,-,35577.0,13.6,13%,67:33:00
+686,601-800,jordan university of science and technology,jordan,16.4,62.2,6.2,16.4,31.4,-,24686.0,16.4,23%,55:45:00
+687,601-800,juntendo university,japan,32.3,16.7,10.5,24.0,51.1,-,3955.0,3.7,1%,52:48:00
+688,601-800,k.n. toosi university of technology,iran,20.9,7.1,18.1,22.5,45.5,-,7146.0,24.6,0%,32 : 68
+689,601-800,kaohsiung medical university,taiwan,20.6,19.9,22.2,20.5,33.2,-,7009.0,12.6,5%,56:44:00
+690,601-800,khon kaen university,thailand,18.2,31.5,7.4,19.9,35.7,-,39669.0,16.9,1%,62:38:00
+691,601-800,king mongkut’s university of technology thonburi,thailand,18.2,28.5,11.4,36.2,70.3,-,17791.0,23.7,1%,42:58:00
+692,601-800,kingston university,united kingdom,16.9,76.8,12.1,26.7,28.5,-,20778.0,20.9,34%,53:47:00
+693,601-800,kinki university,japan,18.5,17.0,7.9,30.0,33.2,-,31216.0,11.6,2%,nan
+694,601-800,kobe university,japan,27.8,21.1,15.4,24.3,45.1,-,15885.0,8.4,6%,33 : 67
+695,601-800,konkuk university,south korea,20.0,22.6,19.6,17.0,36,-,26483.0,23.5,6%,47:53:00
+696,601-800,kumamoto university,japan,23.4,22.2,11.6,28.1,43.1,-,10226.0,7.6,5%,37 : 63
+697,601-800,kyungpook national university,south korea,21.1,21.7,16.0,18.1,34.9,-,27152.0,14.4,4%,42:58:00
+698,601-800,kyushu institute of technology,japan,19.4,20.7,12.5,14.2,44.1,-,5890.0,12.1,4%,0.520138889
+699,601-800,university of latvia,latvia,22.6,31.5,10.2,20.9,28.3,-,15100.0,26.5,3%,68:32:00
+700,601-800,lille 1 university – science and technology,france,20.0,60.3,8.6,32.4,31.8,-,19599.0,14.5,18%,41:59:00
+701,601-800,university of lincoln,united kingdom,17.9,60.5,11.9,26.4,29.3,-,10665.0,18.9,11%,54:46:00
+702,601-800,university of ljubljana,slovenia,24.9,34.5,13.6,24.0,32.3,-,48821.0,17.6,4%,60:40:00
+703,601-800,university of marrakech cadi ayyad,morocco,17.4,42.7,6.3,12.1,29.2,-,56060.0,38.7,1%,46:54:00
+704,601-800,miami university,usa,19.2,24.8,15.7,36.1,30.2,-,16370.0,20.5,7%,53:47:00
+705,601-800,middlesex university,united kingdom,18.5,81.0,10.6,25.7,-,-,17753.0,24.7,44%,59:41:00
+706,601-800,moscow institute of physics and technology,russia,34.3,44.4,16.3,15.5,28,-,5395.0,7.0,12%,nan
+707,601-800,university of murcia,spain,19.3,28.3,11.7,28.0,29.5,-,31460.0,15.8,6%,62:38:00
+708,601-800,nagasaki university,japan,22.8,21.9,10.8,14.3,-,-,9137.0,7.2,4%,36 : 64
+709,601-800,university of nairobi,kenya,13.7,45.5,9.0,19.5,28,-,72676.0,47.0,1%,40 : 60
+710,601-800,national chengchi university,taiwan,18.4,33.1,12.5,14.0,31.3,-,16867.0,18.4,10%,57:43:00
+711,601-800,national chung cheng university,taiwan,21.3,14.2,20.3,15.7,40.8,-,11989.0,22.9,1%,nan
+712,601-800,national chung hsing university,taiwan,20.2,16.9,16.8,24.5,42.5,-,15632.0,20.3,4%,39 : 61
+713,601-800,national taipei university of technology,taiwan,17.8,16.0,14.6,16.4,81.3,-,10227.0,16.5,3%,25 : 75
+714,601-800,national taiwan ocean university,taiwan,18.1,20.3,21.0,18.2,49.3,-,8240.0,20.9,5%,30 : 70
+715,601-800,national university of córdoba,argentina,16.0,28.1,9.0,12.5,28.6,-,108373.0,38.1,2%,62:38:00
+716,601-800,national university of science and technology (misis),russia,24.8,33.7,17.5,10.8,67.2,-,4441.0,6.7,13%,43:57:00
+717,601-800,national university of sciences and technology,pakistan,21.4,31.3,7.0,35.0,31.3,-,9808.0,7.8,3%,27 : 73
+718,601-800,niigata university,japan,21.9,19.3,10.1,17.5,33,-,12460.0,8.5,3%,37 : 63
+719,601-800,northumbria university,united kingdom,17.7,55.1,10.9,29.2,29.1,-,22750.0,19.3,16%,55:45:00
+720,601-800,northwestern polytechnical university,china,23.4,15.2,15.4,3.5,28,-,23056.0,14.1,3%,25 : 75
+721,601-800,nottingham trent university,united kingdom,16.5,52.7,8.9,27.3,28.4,-,21852.0,17.4,18%,55:45:00
+722,601-800,oakland university,usa,18.1,23.3,11.9,21.9,30.3,-,14584.0,19.8,2%,60:40:00
+723,601-800,ocean university of china,china,18.9,15.6,10.7,12.9,50.1,-,36205.0,20.6,1%,40 : 60
+724,601-800,ohio university,usa,25.0,33.6,14.9,24.6,30.1,-,22224.0,20.0,10%,50:50:00
+725,601-800,okayama university,japan,24.3,20.6,14.9,25.3,48,-,13035.0,8.6,3%,38 : 62
+726,601-800,osaka prefecture university,japan,21.6,17.6,10.2,17.5,41.5,-,8051.0,7.5,3%,36 : 64
+727,601-800,university of pardubice,czech republic,15.9,23.4,11.9,11.1,28.3,-,10671.0,19.8,4%,55:45:00
+728,601-800,university of paris north – paris 13,france,17.5,46.4,11.6,36.2,28,-,23026.0,23.4,22%,60:40:00
+729,601-800,paris-sorbonne university – paris 4,france,31.1,44.2,21.3,7.1,28.5,-,21580.0,27.4,21%,69:31:00
+730,601-800,university of patras,greece,18.5,30.6,12.1,28.8,48.3,-,29251.0,40.9,4%,46:54:00
+731,601-800,university of pécs,hungary,19.7,50.8,9.0,23.4,28.4,-,21819.0,15.4,10%,nan
+732,601-800,polytechnic university of valencia,spain,20.3,32.9,12.7,34.3,43.8,-,33172.0,13.6,7%,36 : 64
+733,601-800,pontifical catholic university of paraná,brazil,18.4,18.6,6.5,32.2,28,-,7741.0,10.9,2%,0.110416667
+734,601-800,pontifical catholic university of rio grande do sul (pucrs),brazil,21.1,18.7,10.9,27.6,52.3,-,14797.0,10.1,0%,50:50:00
+735,601-800,pontifical catholic university of valparaíso,chile,18.4,35.7,8.0,10.4,44.3,-,13493.0,10.4,0%,45:55:00
+736,601-800,prince of songkla university,thailand,15.3,31.0,7.0,22.2,31.6,-,38274.0,16.1,1%,69:31:00
+737,601-800,qatar university,qatar,9.9,99.9,10.3,22.3,55.2,-,9583.0,19.0,42%,74:26:00
+738,601-800,rio de janeiro state university (uerj),brazil,21.7,16.8,9.1,12.3,30.8,-,28757.0,10.1,0%,46:54:00
+739,601-800,rochester institute of technology,usa,17.4,29.8,13.4,25.1,30.4,-,12965.0,13.5,13%,34 : 66
+740,601-800,saitama university,japan,18.6,20.6,9.6,23.4,29.6,-,7469.0,11.7,2%,33 : 67
+741,601-800,university of salford,united kingdom,20.8,66.4,12.1,21.2,28.8,-,16152.0,17.0,25%,51:49:00
+742,601-800,"university of santiago, chile (usach)",chile,17.6,40.4,11.3,10.2,31,-,22739.0,23.6,1%,39 : 61
+743,601-800,são paulo state university (unesp),brazil,28.0,18.7,22.6,6.7,40.1,-,50594.0,13.0,5%,52:48:00
+744,601-800,savitribai phule pune university,india,38.3,17.3,12.4,11.4,29.3,-,4858.0,14.6,3%,25 : 75
+745,601-800,university of science and technology beijing,china,25.1,15.6,22.4,6.9,89.7,-,22780.0,15.1,4%,36 : 64
+746,601-800,sejong university,south korea,18.9,25.2,12.2,38.7,35.4,-,11704.0,15.5,3%,43:57:00
+747,601-800,university of seoul,south korea,22.8,18.7,17.5,21.4,28.9,-,10243.0,19.0,3%,36 : 64
+748,601-800,shahid beheshti university,iran,20.5,13.8,19.0,11.4,58.9,-,17800.0,24.9,1%,52:48:00
+749,601-800,shanghai university,china,19.1,15.8,16.1,14.8,45.7,-,46044.0,17.5,3%,48:52:00
+750,601-800,shantou university,china,17.6,30.7,9.1,28.3,30.7,-,9593.0,13.5,0%,48:52:00
+751,601-800,sheffield hallam university,united kingdom,17.3,47.0,9.4,20.1,28.6,-,27477.0,18.8,15%,53:47:00
+752,601-800,shinshu university,japan,20.8,20.3,8.3,22.0,31.6,-,11232.0,9.6,3%,nan
+753,601-800,showa university,japan,28.5,14.0,7.9,7.0,-,-,3675.0,2.5,0%,57:43:00
+754,601-800,sichuan university,china,25.0,15.7,18.4,16.1,90.8,-,65035.0,14.5,2%,48:52:00
+755,601-800,university of silesia in katowice,poland,17.7,18.5,8.0,20.4,28.1,-,32764.0,17.3,1%,65:35:00
+756,601-800,slovak university of technology in bratislava,slovakia,23.3,30.6,8.6,24.9,33.2,-,16400.0,15.3,2%,31 : 69
+757,601-800,sogang university,south korea,21.5,27.7,24.8,20.5,46.8,-,10625.0,24.1,7%,43:57:00
+758,601-800,sophia university,japan,22.0,32.8,9.4,5.3,29.5,-,12799.0,24.3,8%,53:47:00
+759,601-800,university of south africa,south africa,18.4,28.7,11.3,9.4,28.8,-,197102.0,108.5,9%,65:35:00
+760,601-800,southern federal university,russia,21.9,17.3,8.2,9.2,39.5,-,27556.0,9.0,3%,56:44:00
+761,601-800,university of southern mississippi,usa,21.0,20.8,11.8,20.1,39.9,-,14569.0,18.5,3%,63:37:00
+762,601-800,university of southern queensland,australia,18.4,63.0,13.1,14.4,28.8,-,13761.0,29.2,21%,55:45:00
+763,601-800,suez canal university,egypt,22.6,31.6,5.9,16.0,-,-,16817.0,6.0,nan,65:35:00
+764,601-800,sultan qaboos university,oman,21.3,71.5,10.6,16.0,37.6,-,7089.0,9.0,3%,50:50:00
+765,601-800,suranaree university of technology,thailand,21.1,25.9,11.6,18.4,38.1,-,12650.0,32.9,1%,50:50:00
+766,601-800,university of szeged,hungary,20.0,46.9,10.5,20.5,33.2,-,22684.0,13.8,9%,58:42:00
+767,601-800,taipei medical university,taiwan,25.7,26.5,21.7,19.0,42.2,-,6001.0,11.1,6%,58:42:00
+768,601-800,taras shevchenko national university of kyiv,ukraine,27.9,28.2,11.0,4.2,28,-,22686.0,8.2,2%,45:55:00
+769,601-800,technical university of madrid,spain,21.8,39.5,14.6,24.5,38.3,-,41500.0,13.8,11%,32 : 68
+770,601-800,university of tehran,iran,26.1,16.5,16.9,15.8,-,-,53802.0,27.0,1%,45:55:00
+771,601-800,university of texas at el paso,usa,18.6,30.4,18.7,18.4,-,-,19123.0,29.0,7%,54:46:00
+772,601-800,texas tech university,usa,27.9,36.8,17.2,22.0,-,-,29512.0,20.9,7%,46:54:00
+773,601-800,tokai university,japan,17.9,19.3,7.6,15.3,34.4,-,29700.0,12.7,1%,27 : 73
+774,601-800,tokushima university,japan,25.3,16.8,21.6,12.8,59.6,-,7519.0,8.9,3%,34 : 66
+775,601-800,tokyo university of marine science and technology,japan,27.9,24.5,12.4,7.7,57.9,-,2597.0,11.1,7%,34 : 66
+776,601-800,tokyo university of science,japan,23.0,15.4,24.1,21.4,37.6,-,20243.0,25.7,2%,0.888888889
+777,601-800,tomsk state university,russia,34.8,36.9,20.8,7.6,44,-,10413.0,9.9,12%,60:40:00
+778,601-800,tottori university,japan,24.3,16.7,10.1,9.6,34.5,-,6248.0,8.2,2%,34 : 66
+779,601-800,toyohashi university of technology,japan,22.0,25.4,18.9,15.8,50.3,-,2153.0,9.3,9%,0.438194444
+780,601-800,universiti kebangsaan malaysia,malaysia,24.3,29.7,15.9,10.9,28.4,-,24227.0,11.8,12%,62:38:00
+781,601-800,universiti putra malaysia,malaysia,25.3,50.1,20.9,10.2,34.2,-,23883.0,12.2,16%,63:37:00
+782,601-800,universiti sains malaysia,malaysia,26.9,44.2,16.6,12.4,34.4,-,28179.0,14.8,10%,61:39:00
+783,601-800,universiti teknologi mara,malaysia,15.2,14.8,7.7,18.2,28.3,-,69268.0,16.8,0%,65:35:00
+784,601-800,ural federal university,russia,24.8,17.3,10.6,16.8,35.6,-,28427.0,10.1,3%,48:52:00
+785,601-800,v.n. karazin kharkiv national university,ukraine,21.7,48.4,8.9,1.7,28.8,-,14410.0,9.7,22%,53:47:00
+786,601-800,university of vigo,spain,18.4,30.7,10.5,31.8,38.1,-,22793.0,19.0,3%,51:49:00
+787,601-800,vilnius university,lithuania,18.3,40.8,13.6,26.1,41,-,19019.0,14.2,4%,65:35:00
+788,601-800,warsaw university of technology,poland,19.4,20.7,8.5,40.3,47.4,-,34572.0,14.5,3%,34 : 66
+789,601-800,waseda university,japan,23.6,29.7,14.6,29.4,32.4,-,52316.0,16.9,8%,35 : 65
+790,601-800,university of west bohemia,czech republic,16.3,23.1,9.7,29.8,32.1,-,15639.0,21.5,2%,52:48:00
+791,601-800,university of the west of england,united kingdom,16.9,48.5,11.2,34.6,28.5,-,22525.0,21.4,15%,53:47:00
+792,601-800,west university of timişoara,romania,16.1,21.0,3.9,22.4,-,-,12933.0,19.0,3%,62:38:00
+793,601-800,university of westminster,united kingdom,17.3,81.9,11.7,21.1,28.5,-,16609.0,21.0,43%,57:43:00
+794,601-800,xidian university,china,17.9,12.8,12.1,8.9,83.7,-,31618.0,16.4,2%,29 : 71
+795,601-800,yeungnam university,south korea,18.6,24.3,10.9,26.5,35.4,-,21958.0,15.3,3%,48:52:00
+796,601-800,yıldız technical university,turkey,14.5,14.9,7.6,19.3,44,-,31268.0,28.7,2%,36 : 64
+797,601-800,yokohama city university,japan,24.0,16.1,10.2,36.4,37.9,-,4122.0,3.7,3%,nan
+798,601-800,yokohama national university,japan,20.1,23.3,16.0,13.5,40.4,-,10117.0,12.1,8%,28 : 72
+799,601-800,yuan ze university,taiwan,16.2,17.7,18.3,28.6,39.8,-,8663.0,20.6,4%,43:57:00

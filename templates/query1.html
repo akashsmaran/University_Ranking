@@ -1,0 +1,8 @@
+<html>
+  <body>
+    <p>Shanghai Ranking</p>
+    {% for table in tables %}
+    {{ table | safe }}
+    {% endfor %}
+  </body>
+</html>

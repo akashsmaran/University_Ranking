@@ -1,0 +1,501 @@
+world_rank,university_name,national_rank,total_score
+1,Harvard University,1,100
+2,Stanford University,2,73.3
+3,Massachusetts Institute of Technology (MIT),3,70.4
+4,"University of California, Berkeley",4,69.6
+5,University of Cambridge,1,68.8
+6,Princeton University,5,61
+7,California Institute of Technology,6,59.6
+8,Columbia University,7,58.8
+9,University of Chicago,8,57.1
+10,University of Oxford,2,56.6
+11,Yale University,9,54.5
+12,"University of California, Los Angeles",10,50.7
+13,Cornell University,11,50.5
+14,"University of California, San Diego",12,48.7
+15,University of Washington,13,47.8
+16,Johns Hopkins University,14,46.3
+17,University of Pennsylvania,15,46.1
+18,University College London,3,44.5
+18,"University of California, San Francisco",16,44.5
+20,Swiss Federal Institute of Technology Zurich,1,43.7
+21,The University of Tokyo,1,42
+22,University of Michigan-Ann Arbor,17,41.7
+23,"The Imperial College of Science, Technology and Medicine",4,41.5
+24,University of Wisconsin - Madison,18,41.1
+25,University of Toronto,1,40.6
+26,Kyoto University,2,38.9
+27,New York University,19,38.8
+27,Northwestern University,19,38.8
+29,University of Illinois at Urbana-Champaign,21,38.6
+30,"University of Minnesota, Twin Cities",22,38.5
+31,Duke University,23,38
+32,Washington University in St. Louis,24,37.4
+33,Rockefeller University,25,36.5
+34,University of Colorado at Boulder,26,36
+35,University of Copenhagen,1,35.7
+36,Pierre and Marie  Curie University - Paris 6,1,35
+37,The University of Texas at Austin,27,34.8
+38,"University of California, Santa Barbara",28,34.6
+39,University of North Carolina at Chapel Hill,29,34.4
+40,University of British Columbia,2,34.1
+41,The University of Manchester,5,33.6
+41,University of Paris-Sud (Paris 11),2,33.6
+43,"University of Maryland, College Park",30,32.8
+44,The University of Melbourne,1,32.3
+44,The University of Texas Southwestern Medical Center at Dallas,31,32.3
+46,Heidelberg University,1,32.2
+47,The University of Edinburgh,6,32
+48,Karolinska Institute,1,31.9
+49,University of Southern California,32,31.3
+50,"University of California, Irvine",33,31
+51,Technical University Munich,2,30.5
+52,University of Munich,3,30.3
+53,Vanderbilt University,34,30.2
+54,University of Zurich,2,30.1
+55,King's College London,7,30
+56,Utrecht University,1,29.8
+57,"University of California, Davis",35,29.7
+58,University of Geneva,3,29.4
+58,University of Oslo,1,29.4
+60,Pennsylvania State University - University Park,36,29.3
+61,Carnegie Mellon University,37,29.2
+61,Purdue University - West Lafayette,37,29.2
+61,Uppsala University,2,29.2
+64,McGill University,3,28.5
+64,"Rutgers, The State University of New Jersey - New Brunswick",39,28.5
+66,University of Bristol,8,28.3
+67,The Hebrew University of Jerusalem,1,28.2
+67,The Ohio State University - Columbus,40,28.2
+67,University of Helsinki,1,28.2
+70,"University of Pittsburgh, Pittsburgh Campus",41,28.1
+71,Ghent University,1,27.8
+72,Ecole Normale Superieure - Paris,3,27.6
+73,Aarhus University,2,27.3
+73,Boston University,42,27.3
+75,Brown University,43,27
+75,University of Groningen,2,27
+77,Nagoya University,3,26.7
+77,Stockholm University,3,26.7
+77,Technion-Israel Institute of Technology,2,26.7
+77,The Australian National University,2,26.7
+77,The University of Queensland,2,26.7
+82,Leiden University,3,26.5
+83,University of Florida,44,26.2
+84,Rice University,45,26
+85,Osaka University,4,25.7
+86,Moscow State University,1,25.3
+87,The University of Western Australia,4,24.9
+87,University of Basel,4,24.9
+87,University of Strasbourg,4,24.9
+90,KU Leuven,2,24.7
+90,University of Arizona,46,24.7
+92,University of Warwick,9,24.6
+93,Arizona State University,47,24.5
+93,"University of California, Santa Cruz",47,24.5
+93,University of Utah,47,24.5
+96,McMaster University,4,24.4
+97,University of Bonn,4,24.3
+98,VU University Amsterdam,4,24.2
+99,Michigan State University,50,24
+100,Texas A&M University,51,23.9
+101-150,Aix Marseille University,5-6,
+101-150,Baylor College of Medicine,52-65,
+101-150,Case Western Reserve University,52-65,
+101-150,Emory University,52-65,
+101-150,Université libre de Bruxelles (ULB),3,
+101-150,Georgia Institute of Technology,52-65,
+101-150,Icahn School of Medicine at Mount Sinai,52-65,
+101-150,Indiana University Bloomington,52-65,
+101-150,London School of Economics and Political Science,10-17,
+101-150,Lund University,4,
+101-150,Mayo Medical School,52-65,
+101-150,Monash University,5-7,
+101-150,National University of Singapore,1,
+101-150,Norwegian University of Science and Technology - NTNU,2,
+101-150,Peking University,1-4,
+101-150,Radboud University Nijmegen,5-7,
+101-150,Seoul National University,1,
+101-150,Shanghai Jiao Tong University,1-4,
+101-150,Swiss Federal Institute of Technology Lausanne,5,
+101-150,Technical University of Denmark,3,
+101-150,The University of Glasgow,10-17,
+101-150,The University of New South Wales,5-7,
+101-150,The University of Sheffield,10-17,
+101-150,The University of Texas M. D. Anderson Cancer Center,52-65,
+101-150,Tohoku University,5,
+101-150,Tsinghua University,1-4,
+101-150,Tufts University,52-65,
+101-150,University of Alberta,5-6,
+101-150,University of Amsterdam,5-7,
+101-150,University of Birmingham,10-17,
+101-150,"University of California, Riverside",52-65,
+101-150,University of Frankfurt,5-8,
+101-150,University of Freiburg,5-8,
+101-150,University of Goettingen,5-8,
+101-150,University of Leeds,10-17,
+101-150,University of Liverpool,10-17,
+101-150,University of Massachusetts Amherst,52-65,
+101-150,University of Massachusetts Medical School - Worcester,52-65,
+101-150,University of Montreal,5-6,
+101-150,University of Muenster,5-8,
+101-150,University of Nottingham,10-17,
+101-150,University of Rochester,52-65,
+101-150,University of Sao Paulo,1,
+101-150,University of Southampton,10-17,
+101-150,University of Sydney,5-7,
+101-150,University of Virginia,52-65,
+101-150,University of Wageningen,5-7,
+101-150,University Paris Diderot - Paris 7,5-6,
+101-150,Weizmann Institute of Science,3,
+101-150,Zhejiang University,1-4,
+151-200,Cardiff University,18-21,
+151-200,Catholic University of Louvain,4,
+151-200,Erasmus University,8,
+151-200,Fudan University,5-7,
+151-200,George Mason University,66-78,
+151-200,Hokkaido University,6-7,
+151-200,Iowa State University,66-78,
+151-200,Joseph Fourier University (Grenoble 1),7-8,
+151-200,King Abdulaziz University,1-2,
+151-200,King Saud University,1-2,
+151-200,Nanyang Technological University,2,
+151-200,National Taiwan University,1,
+151-200,North Carolina State University - Raleigh,66-78,
+151-200,Oregon Health and Science University,66-78,
+151-200,Oregon State University,66-78,
+151-200,Queen Mary University of London,18-21,
+151-200,Sapienza University of Rome,1-5,
+151-200,Sun Yat-sen University,5-7,
+151-200,Tel Aviv University,4,
+151-200,The Chinese University of Hong Kong,1-2,
+151-200,The University of Adelaide,8,
+151-200,The University of Georgia,66-78,
+151-200,The University of Hong Kong,1-2,
+151-200,Tokyo Institute of Technology,6-7,
+151-200,Trinity College Dublin,1,
+151-200,University of Barcelona,1,
+151-200,University of Bern,6,
+151-200,University of Buenos Aires,1,
+151-200,University of Delaware,66-78,
+151-200,University of Exeter,18-21,
+151-200,University of Gothenburg,5,
+151-200,University of Hamburg,9-13,
+151-200,University of Hawaii at Manoa,66-78,
+151-200,University of Illinois at Chicago,66-78,
+151-200,University of Iowa,66-78,
+151-200,University of Kiel,9-13,
+151-200,University of Koeln,9-13,
+151-200,University of Miami,66-78,
+151-200,University of Milan,1-5,
+151-200,University of Padua,1-5,
+151-200,University of Paris Descartes (Paris 5),7-8,
+151-200,University of Pisa,1-5,
+151-200,University of Science and Technology of China,5-7,
+151-200,University of Sussex,18-21,
+151-200,University of Tennessee - Knoxville,66-78,
+151-200,University of Tuebingen,9-13,
+151-200,University of Turin,1-5,
+151-200,University of Vienna,1,
+151-200,University of Wuerzburg,9-13,
+151-200,Virginia Commonwealth University,66-78,
+201-300,Autonomous University of Barcelona,2-5,
+201-300,Autonomous University of Madrid,2-5,
+201-300,Beijing Normal University,8-13,
+201-300,Brandeis University,79-102,
+201-300,Charles University in Prague,1,
+201-300,City University of Hong Kong,3-4,
+201-300,Claude Bernard University Lyon 1,9-15,
+201-300,Colorado State University,79-102,
+201-300,Complutense University of Madrid,2-5,
+201-300,Curtin University,9-11,
+201-300,Dalhousie University,7-16,
+201-300,Dartmouth College,79-102,
+201-300,Delft University of Technology,9-10,
+201-300,Durham University,22-28,
+201-300,Ecole Normale Superieure - Lyon,9-15,
+201-300,Florida State University,79-102,
+201-300,Vrije Universiteit Brussel (VUB),5-6,
+201-300,Harbin Institute of Technology,8-13,
+201-300,Huazhong University of Science and Technology,8-13,
+201-300,Indiana University-Purdue University at Indianapolis,79-102,
+201-300,Jilin University,8-13,
+201-300,Karlsruhe Institute of Technology (KIT),14-21,
+201-300,Korea Advanced Institute of Science and Technology,2-5,
+201-300,Korea University,2-5,
+201-300,KTH Royal Institute of Technology,6-7,
+201-300,Kyushu University,8-9,
+201-300,Laval University,7-16,
+201-300,Louisiana State University - Baton Rouge,79-102,
+201-300,Maastricht University,9-10,
+201-300,Macquarie University,9-11,
+201-300,Medical University of Vienna,2-3,
+201-300,Nanjing University,8-13,
+201-300,National Autonomous University of Mexico,1,
+201-300,National Tsing Hua University,2,
+201-300,Newcastle University,22-28,
+201-300,Northeastern University,79-102,
+201-300,Paul Sabatier University (Toulouse 3),9-15,
+201-300,Polytechnic Institute of Milan,6-8,
+201-300,Pompeu Fabra University,2-5,
+201-300,Queen's University,7-16,
+201-300,RWTH Aachen University,14-21,
+201-300,Simon Fraser University,7-16,
+201-300,Stony Brook University,79-102,
+201-300,Sungkyunkwan University,2-5,
+201-300,Swedish University of Agricultural Sciences,6-7,
+201-300,The George Washington University,79-102,
+201-300,The Hong Kong University of Science and Technology,3-4,
+201-300,The University of Auckland,1-2,
+201-300,The University of Calgary,7-16,
+201-300,The University of Dundee,22-28,
+201-300,The University of New Mexico - Albuquerque,79-102,
+201-300,The University of Texas Health Science Center at Houston,79-102,
+201-300,Toulouse School of Economics,9-15,
+201-300,TU Dresden,14-21,
+201-300,"University at Buffalo, the State University of New York",79-102,
+201-300,University of Aberdeen,22-28,
+201-300,University of Alabama at Birmingham,79-102,
+201-300,University of Bergen,3,
+201-300,University of Bologna,6-8,
+201-300,University of Bordeaux,9-15,
+201-300,University of Cape Town,1-2,
+201-300,University of Cincinnati,79-102,
+201-300,University of East Anglia,22-28,
+201-300,University of Erlangen-Nuremberg,14-21,
+201-300,University of Florence,6-8,
+201-300,University of Guelph,7-16,
+201-300,University of Houston,79-102,
+201-300,University of Innsbruck,2-3,
+201-300,University of Kansas,79-102,
+201-300,University of Kentucky,79-102,
+201-300,University of Lausanne,7,
+201-300,University of Leicester,22-28,
+201-300,University of Leipzig,14-21,
+201-300,University of Liege,5-6,
+201-300,University of Lisbon,1,
+201-300,University of Lorraine,9-15,
+201-300,University of Mainz,14-21,
+201-300,University of Marburg,14-21,
+201-300,"University of Maryland, Baltimore",79-102,
+201-300,University of Montpellier,9-15,
+201-300,University of Nebraska - Lincoln,79-102,
+201-300,University of Notre Dame,79-102,
+201-300,University of Otago,1-2,
+201-300,University of Ottawa,7-16,
+201-300,University of South Carolina - Columbia,79-102,
+201-300,University of South Florida,79-102,
+201-300,University of Southern Denmark,4,
+201-300,University of Stuttgart,14-21,
+201-300,University of Tehran,1,
+201-300,University of the Witwatersrand,1-2,
+201-300,University of Tsukuba,8-9,
+201-300,University of Victoria,7-16,
+201-300,University of Waterloo,7-16,
+201-300,University of Wollongong,9-11,
+201-300,University of York,22-28,
+201-300,Virginia Polytechnic Institute and State University,79-102,
+201-300,Western University,7-16,
+201-300,Xian Jiao Tong University,8-13,
+201-300,Yeshiva University,79-102,
+201-300,Yonsei University,2-5,
+301-400,Aalborg University,5,
+301-400,Beihang University,14-27,
+301-400,Brigham Young University,103-125,
+301-400,Central South University,14-27,
+301-400,Chalmers University of Technology,8-10,
+301-400,Chiba University,10-12,
+301-400,China Agricultural University,14-27,
+301-400,China Medical University,3-5,
+301-400,City University of New York City College,103-125,
+301-400,Dalian University of Technology,14-27,
+301-400,Deakin University,12-19,
+301-400,Drexel University,103-125,
+301-400,Ecole Polytechnique,16-18,
+301-400,Eindhoven University of Technology,11-12,
+301-400,ESPCI ParisTech,16-18,
+301-400,Federal University of Rio de Janeiro,2-4,
+301-400,Flinders University,12-19,
+301-400,Georgetown University,103-125,
+301-400,Griffith University,12-19,
+301-400,Hannover Medical School,22-28,
+301-400,Hanyang University,6-8,
+301-400,Indian Institute of Science,1,
+301-400,Jagiellonian University,1-2,
+301-400,James Cook University,12-19,
+301-400,Keio University,10-12,
+301-400,King Abdullah University of Science and Technology,3,
+301-400,Kobe University,10-12,
+301-400,Kyung Hee University,6-8,
+301-400,Lancaster University,29-33,
+301-400,Lanzhou University,14-27,
+301-400,Linkoping University,8-10,
+301-400,London School of Hygiene & Tropical Medicine,29-33,
+301-400,Nankai University,14-27,
+301-400,National and Kapodistrian University of Athens,1,
+301-400,National Cheng Kung University,3-5,
+301-400,National Chiao Tung University,3-5,
+301-400,Paris Dauphine University (Paris 9),16-18,
+301-400,Pohang University of Science and Technology,6-8,
+301-400,Polytechnic University of Valencia,6-8,
+301-400,Queen's University Belfast,29-33,
+301-400,Rensselaer Polytechnic Institute,103-125,
+301-400,Saint Petersburg State University,2,
+301-400,San Diego State University,103-125,
+301-400,Scuola Normale Superiore - Pisa,9-10,
+301-400,Shandong University,14-27,
+301-400,Sichuan University,14-27,
+301-400,South China University of Technology,14-27,
+301-400,Southeast University,14-27,
+301-400,Swinburne University of Technology,12-19,
+301-400,Technical University of Berlin,22-28,
+301-400,Temple University,103-125,
+301-400,The Hong Kong Polytechnic University,5,
+301-400,"The University of Newcastle, Australia",12-19,
+301-400,The University of Reading,29-33,
+301-400,The University of Texas at Dallas,103-125,
+301-400,The University of Texas Health Science Center at San Antonio,103-125,
+301-400,Thomas Jefferson University,103-125,
+301-400,Tianjin University,14-27,
+301-400,Tongji University,14-27,
+301-400,Tulane University,103-125,
+301-400,Umea University,8-10,
+301-400,UNESP,2-4,
+301-400,University at Albany (State University of New York),103-125,
+301-400,University College Dublin,2,
+301-400,University of Antwerp,7,
+301-400,University of Belgrade,1,
+301-400,University of Bochum,22-28,
+301-400,University of Campinas,2-4,
+301-400,University of Central Florida,103-125,
+301-400,University of Chile,1,
+301-400,University of Colorado at Denver,103-125,
+301-400,University of Connecticut,103-125,
+301-400,University of Duesseldorf,22-28,
+301-400,University of Duisburg-Essen,22-28,
+301-400,University of Giessen,22-28,
+301-400,University of Granada,6-8,
+301-400,University of Malaya,1,
+301-400,University of Manitoba,17-18,
+301-400,University of Missouri - Columbia,103-125,
+301-400,University of Montana - Missoula,103-125,
+301-400,University of Naples Federico II,9-10,
+301-400,University of New Hampshire - Durham,103-125,
+301-400,University of Oregon,103-125,
+301-400,University of Oulu,2-3,
+301-400,University of Porto,2,
+301-400,University of Saskatchewan,17-18,
+301-400,University of St Andrews,29-33,
+301-400,University of Tasmania,12-19,
+301-400,"University of Technology, Sydney",12-19,
+301-400,University of Turku,2-3,
+301-400,University of Twente,11-12,
+301-400,University of Ulm,22-28,
+301-400,University of Valencia,6-8,
+301-400,University of Vermont,103-125,
+301-400,University of Warsaw,1-2,
+301-400,University of Wyoming,103-125,
+301-400,Washington State University,103-125,
+301-400,Wayne State University,103-125,
+301-400,Wuhan University,14-27,
+301-400,Xiamen University,14-27,
+401-500,Aalto University,4-6,
+401-500,Aristotle University of Thessaloniki,2,
+401-500,Auburn University,126-146,
+401-500,Bar-Ilan University,5-6,
+401-500,Ben-Gurion University of the Negev,5-6,
+401-500,Bielefeld University,29-39,
+401-500,Boston College,126-146,
+401-500,Brunel University,34-37,
+401-500,Cairo University,1,
+401-500,Capital Medical University,28-32,
+401-500,Carleton University,19-20,
+401-500,Catholic University of Chile,2,
+401-500,Catholic University of Korea,9-12,
+401-500,Catholic University of the Sacred Heart,11-20,
+401-500,Chang Gung University,6-7,
+401-500,Clemson University,126-146,
+401-500,East China University of Science and Technology,28-32,
+401-500,Eotvos Lorand University,1-2,
+401-500,Ewha Womans University,9-12,
+401-500,Federal University of Minas Gerais,5-6,
+401-500,Federal University of Rio Grande do Sul,5-6,
+401-500,Florida International University,126-146,
+401-500,Hiroshima University,13-18,
+401-500,Istanbul University,1,
+401-500,Kanazawa University,13-18,
+401-500,Kansas State University,126-146,
+401-500,King Fahd University of Petroleum & Minerals,4,
+401-500,Kyungpook National University,9-12,
+401-500,Medical University of Graz,4-6,
+401-500,Medical University of South Carolina,126-146,
+401-500,MINES ParisTech,19-22,
+401-500,Nanjing Medical University,28-32,
+401-500,Nara Institute of Science and Technology,13-18,
+401-500,National Sun Yat-Sen University,6-7,
+401-500,Okayama University,13-18,
+401-500,Oklahoma State University,126-146,
+401-500,Peking Union Medical College,28-32,
+401-500,Polytechnic University of Catalonia,9-13,
+401-500,Pusan National University,9-12,
+401-500,Queensland University of Technology,20,
+401-500,Rush University,126-146,
+401-500,Saint Louis University,126-146,
+401-500,Sharif University of Technology,2,
+401-500,Soochow University,28-32,
+401-500,State University of New York Health Science Center at Brooklyn,126-146,
+401-500,Stellenbosch University,3-4,
+401-500,Stockholm School of Economics,11,
+401-500,Syracuse University,126-146,
+401-500,Technical University Darmstadt,29-39,
+401-500,Technical University of Braunschweig,29-39,
+401-500,Texas Tech University,126-146,
+401-500,The University of Texas Medical Branch at Galveston,126-146,
+401-500,The University of Tokushima,13-18,
+401-500,Tokyo Medical and Dental University,13-18,
+401-500,University College Cork,3,
+401-500,University of Alaska - Fairbanks,126-146,
+401-500,University of Arkansas at Fayetteville,126-146,
+401-500,University of Arkansas at Little Rock,126-146,
+401-500,University of Auvergne,19-22,
+401-500,University of Bath,34-37,
+401-500,University of Bayreuth,29-39,
+401-500,University of Bremen,29-39,
+401-500,University of Coimbra,3,
+401-500,University of Eastern Finland,4-6,
+401-500,University of Essex,34-37,
+401-500,University of Ferrara,11-20,
+401-500,University of Genoa,11-20,
+401-500,University of Graz,4-6,
+401-500,University of Halle-Wittenberg,29-39,
+401-500,University of Hannover,29-39,
+401-500,University of Jena,29-39,
+401-500,University of Jyvaskyla,4-6,
+401-500,University of Konstanz,29-39,
+401-500,University of KwaZulu-Natal,3-4,
+401-500,University of Ljubljana,1,
+401-500,"University of Maryland, Baltimore County",126-146,
+401-500,University of Milan - Bicocca,11-20,
+401-500,University of Nice Sophia Antipolis,19-22,
+401-500,University of Oklahoma - Norman,126-146,
+401-500,University of Palermo,11-20,
+401-500,University of Parma,11-20,
+401-500,University of Pavia,11-20,
+401-500,University of Perugia,11-20,
+401-500,University of Quebec,19-20,
+401-500,University of Regensburg,29-39,
+401-500,University of Rennes 1,19-22,
+401-500,University of Rhode Island,126-146,
+401-500,University of Roma - Tor Vergata,11-20,
+401-500,University of Rostock,29-39,
+401-500,University of Santiago Compostela,9-13,
+401-500,"University of Science, Malaysia",2,
+401-500,University of Seville,9-13,
+401-500,University of Surrey,34-37,
+401-500,University of Szeged,1-2,
+401-500,University of the Basque Country,9-13,
+401-500,University of Trieste,11-20,
+401-500,University of Zaragoza,9-13,
+401-500,Utah State University,126-146,
+401-500,Vienna University of Technology,4-6,
+401-500,Wake Forest University,126-146,

@@ -1,0 +1,14 @@
+<html>
+  <body>
+    <p>CWUR Ranking</p>
+    {% for table in tables %}
+    {{ table | safe }}
+    {% endfor %}
+    <br />
+    <br />
+    <p>Times Ranking</p>
+    {% for table in tables1 %}
+    {{ table | safe }}
+    {% endfor %}
+  </body>
+</html>
