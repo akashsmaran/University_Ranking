@@ -45,7 +45,9 @@ def search():
       elif(course=="CS" and name!=""):
           df = pd.read_csv("CS.csv",delimiter=',')
           y = df.loc[df['Institution'] == name]
-          return render_template('query1.html', tables=[y.to_html(classes='data', header="true")])
+          df1 = pd.read_csv("timesData.csv", delimiter=',')
+          y1 = df1.loc[df1['university_name'] == name] 
+          return render_template('query2.html', tables=[y.to_html(classes='data', header="true")],tables1=[y1.to_html(classes='data', header="true")])
       elif(course=="CS" and name=="" and country!=""):
           df = pd.read_csv("CS.csv",delimiter=',')
           y = df.loc[df['country'] == country]
@@ -53,12 +55,15 @@ def search():
       elif(course=="Mech" and name!=""):
           df = pd.read_csv("Mech.csv",delimiter=',')
           y = df.loc[df['Institution'] == name]
-          return render_template('query1.html', tables=[y.to_html(classes='data', header="true")])
+          df1 = pd.read_csv("timesData.csv", delimiter=',')
+          y1 = df1.loc[df1['university_name'] == name] 
+          return render_template('query2.html', tables=[y.to_html(classes='data', header="true")],tables1=[y1.to_html(classes='data', header="true")])
       elif(course=="BIO" and name!=""):
           df = pd.read_csv("Biomed.csv",delimiter=',')
           y = df.loc[df['Institution'] == name]
-          return render_template('query1.html', tables=[y.to_html(classes='data', header="true")])      
-          
+          df1 = pd.read_csv("timesData.csv", delimiter=',')
+          y1 = df1.loc[df1['university_name'] == name] 
+          return render_template('query2.html', tables=[y.to_html(classes='data', header="true")],tables1=[y1.to_html(classes='data', header="true")])
    else:
       name = request.args.get('nm')
       country = request.args.get('country')
