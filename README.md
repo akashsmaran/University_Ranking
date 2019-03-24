@@ -8,11 +8,11 @@ Different forms of search can be done.
 
 Run the code by typing:-
 
-# python university.py
+```python university.py```
 
 Then open:-
 
-# lol.html in the templates folder
+```lol.html``` in the templates folder
 
 Bonus!
 We have incorporated a machine learning model which predicts your chances of getting into a top university by details in your profile.
