@@ -6,6 +6,11 @@ Different forms of search can be done.
 (2) Search for universities in a country
 (3) Search according to different filters like course wise
 
+Pre-requisite:-
+
+Run the ipython notebook to generate the sav model to run the machine learning model in your localhost!
+
+
 Run the code by typing:-
 
 ```python university.py```
@@ -16,8 +21,6 @@ Then open:-
 
 Bonus!
 We have incorporated a machine learning model which predicts your chances of getting into a top university by details in your profile.
-
-Run the .ipynb notebook to look how we acheived this.
 
 We have hosted the website on pythonanywhere.
 
