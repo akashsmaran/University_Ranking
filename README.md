@@ -1,6 +1,6 @@
 # University_Ranking
 
-Gives university ranking of different universities by scraping of various data sources. 
+It allocates university ranking of different universities by scraping of various data sources. 
 Different forms of search can be done.
 (1) Search only for universities
 (2) Search for universities in a country
